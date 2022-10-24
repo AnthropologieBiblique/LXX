@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 26
 - Lévitique 26
 - Lv 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 26

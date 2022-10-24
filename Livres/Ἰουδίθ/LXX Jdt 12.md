@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 12
 - Judith 12
 - Jdt 12
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 12

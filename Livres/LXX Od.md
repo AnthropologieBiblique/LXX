@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί
 - Odes
 - Od
@@ -7,6 +7,7 @@ tags :
 - Bible/Od
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί

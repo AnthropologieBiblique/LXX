@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 7
 - Daniel 7
 - Dn 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 7

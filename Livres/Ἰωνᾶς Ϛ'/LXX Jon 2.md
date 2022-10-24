@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰωνᾶς Ϛ' 2
 - Jonas 1
 - Jon 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰωνᾶς Ϛ' 2

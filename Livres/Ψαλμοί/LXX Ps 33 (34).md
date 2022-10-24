@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 33 (34)
 - Psaumes 34 (33)
 - Ps 34 (33)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/34_33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 33 (34)

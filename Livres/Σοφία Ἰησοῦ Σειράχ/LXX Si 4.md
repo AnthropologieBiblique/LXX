@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 4
 - Siracide 4
 - Si 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 4

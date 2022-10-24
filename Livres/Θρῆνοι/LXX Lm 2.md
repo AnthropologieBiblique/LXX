@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Θρῆνοι 2
 - Lamentations 2
 - Lm 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Θρῆνοι 2

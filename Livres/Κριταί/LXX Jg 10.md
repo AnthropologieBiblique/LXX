@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 10
 - Juges 10
 - Jg 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 10

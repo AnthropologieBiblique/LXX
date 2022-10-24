@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 4
 - 2 Maccabees 4
 - 2 M 4
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 4

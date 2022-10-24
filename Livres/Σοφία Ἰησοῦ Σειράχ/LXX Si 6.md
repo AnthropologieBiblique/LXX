@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 6
 - Siracide 6
 - Si 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 6

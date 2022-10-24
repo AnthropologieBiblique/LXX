@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 47
 - Jérémie 40
 - Jr 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/40
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 47

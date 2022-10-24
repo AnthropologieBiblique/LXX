@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 17
 - Lévitique 17
 - Lv 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 17

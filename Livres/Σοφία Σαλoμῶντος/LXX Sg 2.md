@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 2
 - Sagesse 2
 - Sg 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 2

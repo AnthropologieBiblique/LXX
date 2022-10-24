@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 15
 - 1 Rois 15
 - 1 R 15
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 15

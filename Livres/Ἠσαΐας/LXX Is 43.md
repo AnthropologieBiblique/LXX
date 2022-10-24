@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 43
 - Isaïe 43
 - Is 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/43
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 43

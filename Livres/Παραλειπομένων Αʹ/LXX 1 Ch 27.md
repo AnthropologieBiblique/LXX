@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 27
 - 1 Chroniques 27
 - 1 Ch 27
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 27

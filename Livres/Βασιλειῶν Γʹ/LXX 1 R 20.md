@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 20
 - 1 Rois 21
 - 1 R 21
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 20

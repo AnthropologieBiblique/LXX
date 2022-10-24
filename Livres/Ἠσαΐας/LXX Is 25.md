@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 25
 - Isaïe 25
 - Is 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 25

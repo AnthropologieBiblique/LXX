@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 6
 - 1 Rois 6
 - 1 R 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 18 (19)
 - Psaumes 19 (18)
 - Ps 19 (18)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/19_18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 18 (19)

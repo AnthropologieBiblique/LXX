@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 6
 - Zacharie 6
 - Za 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 6

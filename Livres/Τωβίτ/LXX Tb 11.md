@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 11
 - Tobie 11
 - Tb 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 11

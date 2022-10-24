@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 12
 - Odes 12
 - Od 12
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 12

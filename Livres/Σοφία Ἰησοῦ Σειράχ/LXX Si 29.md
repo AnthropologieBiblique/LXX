@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 29
 - Siracide 29
 - Si 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 29

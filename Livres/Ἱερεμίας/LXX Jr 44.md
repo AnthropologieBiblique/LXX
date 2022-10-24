@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 44
 - Jérémie 37
 - Jr 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/37
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 44

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 9
 - Jérémie 9
 - Jr 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 9

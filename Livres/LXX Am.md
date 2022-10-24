@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀμώς Βʹ
 - Amos
 - Am
@@ -7,6 +7,7 @@ tags :
 - Bible/Am
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀμώς Βʹ

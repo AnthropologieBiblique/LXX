@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 36
 - Isaïe 36
 - Is 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 36

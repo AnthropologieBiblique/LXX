@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 53 (54)
 - Psaumes 54 (53)
 - Ps 54 (53)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/54_53
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 53 (54)

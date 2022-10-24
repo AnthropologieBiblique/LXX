@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 32
 - Exode 32
 - Ex 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 32

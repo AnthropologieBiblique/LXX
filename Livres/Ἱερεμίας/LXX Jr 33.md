@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 33
 - Jérémie 26
 - Jr 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 33

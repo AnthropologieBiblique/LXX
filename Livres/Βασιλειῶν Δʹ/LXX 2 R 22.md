@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 22
 - 2 Rois 22
 - 2 R 22
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 22

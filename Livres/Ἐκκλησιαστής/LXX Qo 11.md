@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 11
 - Ecclésiaste 11
 - Qo 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 11

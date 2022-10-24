@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀγγαῖος Ιʹ 2
 - Aggée 2
 - Ag 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ag/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀγγαῖος Ιʹ 2

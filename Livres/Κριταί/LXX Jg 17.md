@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 17
 - Juges 17
 - Jg 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 17

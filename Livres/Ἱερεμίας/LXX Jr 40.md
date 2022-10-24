@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 40
 - Jérémie 33
 - Jr 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 40

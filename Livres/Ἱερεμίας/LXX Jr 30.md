@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 30
 - Jérémie 49
 - Jr 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/49
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 30

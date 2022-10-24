@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 26
 - Siracide 26
 - Si 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 26

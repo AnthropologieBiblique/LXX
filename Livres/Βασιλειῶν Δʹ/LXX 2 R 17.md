@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 17
 - 2 Rois 17
 - 2 R 17
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 17

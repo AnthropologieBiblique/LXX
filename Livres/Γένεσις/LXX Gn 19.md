@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 19
 - Genèse 19
 - Gn 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 19

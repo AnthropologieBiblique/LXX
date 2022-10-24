@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 19
 - Josué 19
 - Jos 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 19

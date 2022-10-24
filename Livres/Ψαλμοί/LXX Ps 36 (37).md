@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 36 (37)
 - Psaumes 37 (36)
 - Ps 37 (36)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/37_36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 36 (37)

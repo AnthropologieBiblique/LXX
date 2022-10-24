@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 9
 - Exode 9
 - Ex 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 9

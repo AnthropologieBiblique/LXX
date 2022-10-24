@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 14
 - 1 Chroniques 14
 - 1 Ch 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 14

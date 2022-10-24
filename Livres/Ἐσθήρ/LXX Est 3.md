@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 3
 - Esther 3
 - Est 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 3

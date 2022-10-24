@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 5
 - Proverbes 5
 - Pr 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 5

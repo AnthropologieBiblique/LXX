@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 20
 - 2 Chroniques 20
 - 2 Ch 20
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 20

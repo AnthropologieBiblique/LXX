@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 8
 - Psaume extra numerum 8
 - Ps Sal 8
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 8

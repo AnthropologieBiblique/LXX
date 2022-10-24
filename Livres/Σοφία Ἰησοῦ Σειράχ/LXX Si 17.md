@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 17
 - Siracide 17
 - Si 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 17

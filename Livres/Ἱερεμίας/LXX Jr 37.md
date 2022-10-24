@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 37
 - Jérémie 30
 - Jr 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 37

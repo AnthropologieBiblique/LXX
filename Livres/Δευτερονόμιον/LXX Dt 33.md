@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 33
 - Deutéronome 33
 - Dt 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 33

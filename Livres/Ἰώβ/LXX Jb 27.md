@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 27
 - Job 27
 - Jb 27
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 27

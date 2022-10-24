@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 10
 - Genèse 10
 - Gn 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 10

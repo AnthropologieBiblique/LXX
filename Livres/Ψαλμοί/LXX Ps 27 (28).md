@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 27 (28)
 - Psaumes 28 (27)
 - Ps 28 (27)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/28_27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 27 (28)

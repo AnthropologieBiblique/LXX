@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 35
 - Genèse 35
 - Gn 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/35
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 35

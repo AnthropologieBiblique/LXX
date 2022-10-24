@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Προσευχὴ Μανασσῆ 1
 - Prière de Manassé 1
 - Man 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Man/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Προσευχὴ Μανασσῆ 1

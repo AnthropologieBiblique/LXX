@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 2
 - Ézéchiel 2
 - Ez 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 2

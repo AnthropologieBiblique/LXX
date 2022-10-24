@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 4
 - 1 Samuel 4
 - 1 S 4
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 4

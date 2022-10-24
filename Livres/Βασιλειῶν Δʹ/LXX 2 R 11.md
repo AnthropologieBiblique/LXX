@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 11
 - 2 Rois 11
 - 2 R 11
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 11

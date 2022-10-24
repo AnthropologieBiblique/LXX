@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 22
 - Siracide 22
 - Si 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 22

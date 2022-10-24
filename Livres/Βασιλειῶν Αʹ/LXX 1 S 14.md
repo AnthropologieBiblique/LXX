@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 14
 - 1 Samuel 14
 - 1 S 14
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 14

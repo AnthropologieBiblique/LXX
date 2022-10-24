@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 6
 - Genèse 6
 - Gn 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 6

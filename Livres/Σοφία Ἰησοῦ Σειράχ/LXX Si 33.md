@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 33
 - Siracide 33
 - Si 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 33

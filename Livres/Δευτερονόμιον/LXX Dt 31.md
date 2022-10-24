@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 31
 - Deutéronome 31
 - Dt 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 31

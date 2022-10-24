@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις
 - Genèse
 - Gn
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις

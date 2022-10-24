@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 30
 - Genèse 30
 - Gn 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 30

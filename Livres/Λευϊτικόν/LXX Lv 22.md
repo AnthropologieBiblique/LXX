@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 22
 - Lévitique 22
 - Lv 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 22

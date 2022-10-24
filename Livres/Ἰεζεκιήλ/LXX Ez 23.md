@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 23
 - Ézéchiel 23
 - Ez 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 23

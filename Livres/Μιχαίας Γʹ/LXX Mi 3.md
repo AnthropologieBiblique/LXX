@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μιχαίας Γʹ 3
 - Michée 3
 - Mi 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μιχαίας Γʹ 3

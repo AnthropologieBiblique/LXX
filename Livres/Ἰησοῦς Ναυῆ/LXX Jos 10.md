@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 10
 - Josué 10
 - Jos 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 10

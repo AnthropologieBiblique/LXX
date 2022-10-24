@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 29
 - Deutéronome 29
 - Dt 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 29

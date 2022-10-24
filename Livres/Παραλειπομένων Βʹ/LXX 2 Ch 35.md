@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 35
 - 2 Chroniques 35
 - 2 Ch 35
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/35
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 35

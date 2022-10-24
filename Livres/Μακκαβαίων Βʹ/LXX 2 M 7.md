@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 7
 - 2 Maccabees 7
 - 2 M 7
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 7

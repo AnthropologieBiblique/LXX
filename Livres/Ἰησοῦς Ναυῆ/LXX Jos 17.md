@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 17
 - Josué 17
 - Jos 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 17

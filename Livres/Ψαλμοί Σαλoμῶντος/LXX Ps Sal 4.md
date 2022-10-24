@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 4
 - Psaume extra numerum 4
 - Ps Sal 4
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 4

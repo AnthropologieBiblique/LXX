@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 11
 - Josué 11
 - Jos 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 11

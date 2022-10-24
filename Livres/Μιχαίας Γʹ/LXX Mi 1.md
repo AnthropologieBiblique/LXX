@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μιχαίας Γʹ 1
 - Michée 1
 - Mi 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μιχαίας Γʹ 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 13
 - Job 13
 - Jb 13
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 26
 - Jérémie 46
 - Jr 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/46
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 26

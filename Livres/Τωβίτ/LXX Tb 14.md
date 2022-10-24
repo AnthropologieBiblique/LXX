@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 14
 - Tobie 14
 - Tb 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 13
 - Juges 13
 - Jg 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 13

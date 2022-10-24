@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 12
 - Josué 12
 - Jos 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 12

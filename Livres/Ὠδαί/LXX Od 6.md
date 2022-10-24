@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 6
 - Odes 6
 - Od 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 6

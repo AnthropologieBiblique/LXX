@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 7
 - Isaïe 7
 - Is 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 7

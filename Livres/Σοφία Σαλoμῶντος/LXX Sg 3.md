@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 3
 - Sagesse 3
 - Sg 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 29
 - 1 Chroniques 29
 - 1 Ch 29
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 29

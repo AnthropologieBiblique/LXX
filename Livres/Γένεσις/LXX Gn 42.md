@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 42
 - Genèse 42
 - Gn 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/42
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 42

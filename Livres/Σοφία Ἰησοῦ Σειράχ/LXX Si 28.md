@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 28
 - Siracide 28
 - Si 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 28

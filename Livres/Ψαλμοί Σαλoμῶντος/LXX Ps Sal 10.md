@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 10
 - Psaume extra numerum 10
 - Ps Sal 10
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 10

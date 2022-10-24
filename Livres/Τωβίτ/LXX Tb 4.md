@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 4
 - Tobie 4
 - Tb 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 4

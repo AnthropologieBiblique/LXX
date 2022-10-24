@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 37
 - Siracide 37
 - Si 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/37
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 37

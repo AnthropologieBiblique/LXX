@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 36
 - 2 Chroniques 36
 - 2 Ch 36
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 36

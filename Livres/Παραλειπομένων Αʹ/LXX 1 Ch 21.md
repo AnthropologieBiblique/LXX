@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 21
 - 1 Chroniques 21
 - 1 Ch 21
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 21

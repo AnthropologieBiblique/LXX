@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 17
 - Ézéchiel 17
 - Ez 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 17

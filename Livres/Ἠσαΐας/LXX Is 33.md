@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 33
 - Isaïe 33
 - Is 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 33

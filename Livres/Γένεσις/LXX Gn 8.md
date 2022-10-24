@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 8
 - Genèse 8
 - Gn 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 8

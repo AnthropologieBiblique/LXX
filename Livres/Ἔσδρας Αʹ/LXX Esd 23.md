@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 23
 - Esdras 13
 - Esd 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 23

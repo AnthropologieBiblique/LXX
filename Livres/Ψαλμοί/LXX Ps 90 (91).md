@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 90 (91)
 - Psaumes 91 (90)
 - Ps 91 (90)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/91_90
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 90 (91)

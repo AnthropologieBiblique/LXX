@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 16
 - 4 Maccabees 16
 - 4 M 16
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 16

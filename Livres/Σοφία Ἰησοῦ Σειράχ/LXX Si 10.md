@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 10
 - Siracide 10
 - Si 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 10

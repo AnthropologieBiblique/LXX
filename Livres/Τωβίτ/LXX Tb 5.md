@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 5
 - Tobie 5
 - Tb 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 5

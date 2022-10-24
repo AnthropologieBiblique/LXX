@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 6
 - 2 Chroniques 6
 - 2 Ch 6
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 6

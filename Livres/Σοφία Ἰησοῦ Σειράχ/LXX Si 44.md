@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 44
 - Siracide 44
 - Si 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/44
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 44

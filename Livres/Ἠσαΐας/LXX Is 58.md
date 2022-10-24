@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 58
 - Isaïe 58
 - Is 58
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/58
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 58

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 14
 - Josué 14
 - Jos 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 14

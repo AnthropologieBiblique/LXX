@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 22
 - 1 Chroniques 22
 - 1 Ch 22
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 22

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 8
 - 2 Rois 8
 - 2 R 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 13
 - Lévitique 13
 - Lv 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 13

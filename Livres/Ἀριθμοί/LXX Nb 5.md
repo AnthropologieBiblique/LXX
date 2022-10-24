@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 5
 - Nombres 5
 - Nb 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 5

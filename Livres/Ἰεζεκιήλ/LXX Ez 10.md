@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 10
 - Ézéchiel 10
 - Ez 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 10

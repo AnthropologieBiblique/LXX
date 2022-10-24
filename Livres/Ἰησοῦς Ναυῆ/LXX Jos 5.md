@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 5
 - Josué 5
 - Jos 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 5

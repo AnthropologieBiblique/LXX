@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 9
 - 1 Samuel 9
 - 1 S 9
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 9

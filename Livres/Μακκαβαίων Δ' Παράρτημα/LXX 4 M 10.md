@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 10
 - 4 Maccabees 10
 - 4 M 10
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 10

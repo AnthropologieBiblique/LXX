@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 7
 - 2 Samuel 7
 - 2 S 7
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 7

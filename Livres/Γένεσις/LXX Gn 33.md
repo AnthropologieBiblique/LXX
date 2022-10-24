@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 33
 - Genèse 33
 - Gn 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 33

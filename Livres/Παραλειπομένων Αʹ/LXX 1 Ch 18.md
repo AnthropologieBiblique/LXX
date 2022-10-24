@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 18
 - 1 Chroniques 18
 - 1 Ch 18
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 18

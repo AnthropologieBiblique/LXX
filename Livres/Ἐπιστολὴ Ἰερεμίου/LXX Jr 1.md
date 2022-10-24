@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐπιστολὴ Ἰερεμίου 1
 - Épître de Jérémie 6
 - Jr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐπιστολὴ Ἰερεμίου 1

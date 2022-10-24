@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 94 (95)
 - Psaumes 95 (94)
 - Ps 95 (94)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/95_94
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 94 (95)

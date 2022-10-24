@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 3
 - Isaïe 3
 - Is 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 3

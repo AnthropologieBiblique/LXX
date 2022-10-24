@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 20
 - Job 20
 - Jb 20
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 20

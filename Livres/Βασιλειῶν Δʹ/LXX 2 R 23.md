@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 23
 - 2 Rois 23
 - 2 R 23
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 23

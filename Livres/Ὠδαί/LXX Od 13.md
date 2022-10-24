@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 13
 - Odes 13
 - Od 13
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 13

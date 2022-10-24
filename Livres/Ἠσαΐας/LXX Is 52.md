@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 52
 - Isaïe 52
 - Is 52
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/52
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 52

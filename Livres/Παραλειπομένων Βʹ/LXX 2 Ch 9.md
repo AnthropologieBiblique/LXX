@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 9
 - 2 Chroniques 9
 - 2 Ch 9
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 9

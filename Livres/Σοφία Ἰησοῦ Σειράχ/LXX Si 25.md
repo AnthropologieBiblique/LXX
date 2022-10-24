@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 25
 - Siracide 25
 - Si 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 25

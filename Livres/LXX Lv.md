@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν
 - Lévitique
 - Lv
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν

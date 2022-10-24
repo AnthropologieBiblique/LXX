@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 4
 - Exode 4
 - Ex 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 4

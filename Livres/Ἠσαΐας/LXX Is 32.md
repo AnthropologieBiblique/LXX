@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 32
 - Isaïe 32
 - Is 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 32

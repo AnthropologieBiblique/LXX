@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 10
 - Job 10
 - Jb 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 10

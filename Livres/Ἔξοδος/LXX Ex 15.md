@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 15
 - Exode 15
 - Ex 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 15

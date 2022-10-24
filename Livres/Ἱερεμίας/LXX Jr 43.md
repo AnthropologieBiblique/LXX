@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 43
 - Jérémie 36
 - Jr 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 43

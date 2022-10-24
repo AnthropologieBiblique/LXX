@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὡσηέ Αʹ 6
 - Osée 6
 - Os 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὡσηέ Αʹ 6

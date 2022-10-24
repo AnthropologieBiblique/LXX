@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ναούμ Ζʹ 1
 - Nahum 1
 - Na 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Na/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ναούμ Ζʹ 1

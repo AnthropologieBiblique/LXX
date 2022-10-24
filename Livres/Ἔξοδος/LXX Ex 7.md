@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 7
 - Exode 7
 - Ex 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 7

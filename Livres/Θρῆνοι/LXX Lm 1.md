@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Θρῆνοι 1
 - Lamentations 1
 - Lm 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Θρῆνοι 1

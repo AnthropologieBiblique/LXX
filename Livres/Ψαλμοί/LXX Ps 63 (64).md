@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 63 (64)
 - Psaumes 64 (63)
 - Ps 64 (63)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/64_63
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 63 (64)

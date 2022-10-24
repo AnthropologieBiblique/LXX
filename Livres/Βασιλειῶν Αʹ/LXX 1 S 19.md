@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 19
 - 1 Samuel 19
 - 1 S 19
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 19

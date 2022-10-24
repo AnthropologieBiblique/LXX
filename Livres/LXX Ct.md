@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἆσμα Ἀσμάτων
 - Cantique des cantiques
 - Ct
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἆσμα Ἀσμάτων

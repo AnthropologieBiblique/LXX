@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 12
 - Genèse 12
 - Gn 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 12

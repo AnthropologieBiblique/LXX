@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 4
 - 1 Chroniques 4
 - 1 Ch 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 8
 - Tobie 8
 - Tb 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 8

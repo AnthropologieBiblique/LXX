@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 12
 - Siracide 12
 - Si 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 12

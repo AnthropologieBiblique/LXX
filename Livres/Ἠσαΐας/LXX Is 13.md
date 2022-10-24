@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 13
 - Isaïe 13
 - Is 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 13

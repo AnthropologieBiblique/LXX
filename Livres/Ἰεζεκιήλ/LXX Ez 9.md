@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 9
 - Ézéchiel 9
 - Ez 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 9

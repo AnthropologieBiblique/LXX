@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 5
 - 1 Samuel 5
 - 1 S 5
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 16 (17)
 - Psaumes 17 (16)
 - Ps 17 (16)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/17_16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 16 (17)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 30
 - 2 Chroniques 30
 - 2 Ch 30
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 30

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 2
 - 1 Rois 2
 - 1 R 2
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 2

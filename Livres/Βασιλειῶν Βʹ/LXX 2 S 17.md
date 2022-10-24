@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 17
 - 2 Samuel 17
 - 2 S 17
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 17

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής
 - Ecclésiaste
 - Qo
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής

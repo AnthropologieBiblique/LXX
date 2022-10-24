@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 55
 - Isaïe 55
 - Is 55
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/55
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 55

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 6
 - Psaume extra numerum 6
 - Ps Sal 6
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 6

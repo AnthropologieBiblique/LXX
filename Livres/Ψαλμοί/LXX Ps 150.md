@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 150
 - Psaumes 150
 - Ps 150
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/150
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 150

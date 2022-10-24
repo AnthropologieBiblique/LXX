@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 3
 - Proverbes 3
 - Pr 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 20
 - Ézéchiel 20
 - Ez 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 20

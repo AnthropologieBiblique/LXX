@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 39
 - Siracide 39
 - Si 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/39
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 39

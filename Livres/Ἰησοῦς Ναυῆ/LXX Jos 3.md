@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 3
 - Josué 3
 - Jos 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 3

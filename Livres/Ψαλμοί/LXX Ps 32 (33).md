@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 32 (33)
 - Psaumes 33 (32)
 - Ps 33 (32)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/33_32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 32 (33)

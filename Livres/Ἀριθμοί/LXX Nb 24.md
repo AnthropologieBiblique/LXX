@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 24
 - Nombres 24
 - Nb 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 24

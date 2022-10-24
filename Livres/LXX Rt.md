@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ῥούθ
 - Ruth
 - Rt
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ῥούθ

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 16
 - Sagesse 16
 - Sg 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 16

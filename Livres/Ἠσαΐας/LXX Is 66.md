@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 66
 - Isaïe 66
 - Is 66
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/66
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 66

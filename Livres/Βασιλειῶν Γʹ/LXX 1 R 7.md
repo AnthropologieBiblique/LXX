@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 7
 - 1 Rois 7
 - 1 R 7
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 7

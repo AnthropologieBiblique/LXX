@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 5
 - 2 Rois 5
 - 2 R 5
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 5

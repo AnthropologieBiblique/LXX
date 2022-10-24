@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 2
 - Psaumes 2
 - Ps 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 24
 - Siracide 24
 - Si 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 24

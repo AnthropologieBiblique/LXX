@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 45
 - Siracide 45
 - Si 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/45
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 45

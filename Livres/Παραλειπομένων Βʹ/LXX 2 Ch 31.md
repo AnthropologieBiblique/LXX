@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 31
 - 2 Chroniques 31
 - 2 Ch 31
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 31

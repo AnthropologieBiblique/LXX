@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 6
 - Judith 6
 - Jdt 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 6

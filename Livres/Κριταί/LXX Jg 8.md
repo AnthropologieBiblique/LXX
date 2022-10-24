@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 8
 - Juges 8
 - Jg 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 8

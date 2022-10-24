@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 75 (76)
 - Psaumes 76 (75)
 - Ps 76 (75)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/76_75
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 75 (76)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 15 (16)
 - Psaumes 16 (15)
 - Ps 16 (15)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/16_15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 15 (16)

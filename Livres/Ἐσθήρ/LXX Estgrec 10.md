@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 10
 - Esther, Grec 10
 - Estgrec 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 10

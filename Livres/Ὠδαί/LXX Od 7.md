@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 7
 - Odes 7
 - Od 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 7

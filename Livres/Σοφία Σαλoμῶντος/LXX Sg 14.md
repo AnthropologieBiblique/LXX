@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 14
 - Sagesse 14
 - Sg 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 14

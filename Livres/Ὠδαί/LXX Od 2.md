@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 2
 - Odes 2
 - Od 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 9
 - 4 Maccabees 9
 - 4 M 9
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 7
 - Juges 7
 - Jg 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 7

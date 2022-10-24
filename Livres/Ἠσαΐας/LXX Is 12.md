@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 12
 - Isaïe 12
 - Is 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 12

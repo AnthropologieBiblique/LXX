@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βαρούχ
 - Baruch
 - Ba
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βαρούχ

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 23
 - Proverbes 23
 - Pr 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 23

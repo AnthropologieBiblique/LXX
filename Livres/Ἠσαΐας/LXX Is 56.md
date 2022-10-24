@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 56
 - Isaïe 56
 - Is 56
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/56
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 56

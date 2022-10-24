@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 6
 - Ecclésiaste 6
 - Qo 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 6

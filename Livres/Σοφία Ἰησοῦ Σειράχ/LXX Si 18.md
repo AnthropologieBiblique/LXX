@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 18
 - Siracide 18
 - Si 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 18

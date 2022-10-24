@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 27
 - Exode 27
 - Ex 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 27

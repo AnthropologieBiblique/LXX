@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 15
 - Lévitique 15
 - Lv 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 15

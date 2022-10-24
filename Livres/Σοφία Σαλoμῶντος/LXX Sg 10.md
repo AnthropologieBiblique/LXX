@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 10
 - Sagesse 10
 - Sg 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 10

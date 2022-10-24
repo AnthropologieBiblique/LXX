@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 21
 - Jérémie 21
 - Jr 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 21

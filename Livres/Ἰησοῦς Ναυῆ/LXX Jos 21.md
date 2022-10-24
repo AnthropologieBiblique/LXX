@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 21
 - Josué 21
 - Jos 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 21

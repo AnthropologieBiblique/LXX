@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Γʹ 6
 - 3 Maccabees 6
 - 3 M 6
@@ -7,6 +7,7 @@ tags :
 - Bible/3M/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Γʹ 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 20
 - Genèse 20
 - Gn 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 26
 - 1 Chroniques 26
 - 1 Ch 26
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 26

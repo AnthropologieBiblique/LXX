@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 12
 - Psaume extra numerum 12
 - Ps Sal 12
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 12

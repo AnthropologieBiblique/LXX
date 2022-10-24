@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 16
 - Deutéronome 16
 - Dt 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 16

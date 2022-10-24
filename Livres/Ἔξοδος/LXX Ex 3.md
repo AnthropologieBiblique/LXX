@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 3
 - Exode 3
 - Ex 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 3

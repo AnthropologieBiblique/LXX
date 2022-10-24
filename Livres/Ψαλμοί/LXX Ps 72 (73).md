@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 72 (73)
 - Psaumes 73 (72)
 - Ps 73 (72)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/73_72
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 72 (73)

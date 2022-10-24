@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 70 (71)
 - Psaumes 71 (70)
 - Ps 71 (70)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/71_70
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 70 (71)

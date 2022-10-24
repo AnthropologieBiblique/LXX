@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 14 (15)
 - Psaumes 15 (14)
 - Ps 15 (14)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/15_14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 14 (15)

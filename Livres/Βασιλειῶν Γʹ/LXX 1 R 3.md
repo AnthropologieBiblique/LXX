@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 3
 - 1 Rois 3
 - 1 R 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 3

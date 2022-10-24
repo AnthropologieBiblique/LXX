@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 45 (46)
 - Psaumes 46 (45)
 - Ps 46 (45)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/46_45
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 45 (46)

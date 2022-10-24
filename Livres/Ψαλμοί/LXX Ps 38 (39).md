@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 38 (39)
 - Psaumes 39 (38)
 - Ps 39 (38)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/39_38
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 38 (39)

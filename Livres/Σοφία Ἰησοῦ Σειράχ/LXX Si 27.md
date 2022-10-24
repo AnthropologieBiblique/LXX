@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 27
 - Siracide 27
 - Si 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 27

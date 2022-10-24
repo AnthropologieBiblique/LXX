@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 12
 - Zacharie 12
 - Za 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 12

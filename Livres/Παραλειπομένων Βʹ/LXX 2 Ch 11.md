@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 11
 - 2 Chroniques 11
 - 2 Ch 11
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 11

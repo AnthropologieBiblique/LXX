@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 10
 - Ecclésiaste 10
 - Qo 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 10

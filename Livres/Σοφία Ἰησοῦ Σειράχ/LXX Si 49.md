@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 49
 - Siracide 49
 - Si 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/49
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 49

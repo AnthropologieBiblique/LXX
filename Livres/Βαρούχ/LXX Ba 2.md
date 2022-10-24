@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βαρούχ 2
 - Baruch 2
 - Ba 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βαρούχ 2

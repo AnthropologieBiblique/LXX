@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 5
 - Esther 5
 - Est 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 5

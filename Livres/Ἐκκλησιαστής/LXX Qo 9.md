@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 9
 - Ecclésiaste 9
 - Qo 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 9

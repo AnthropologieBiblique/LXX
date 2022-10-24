@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 5
 - Sagesse 5
 - Sg 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 5

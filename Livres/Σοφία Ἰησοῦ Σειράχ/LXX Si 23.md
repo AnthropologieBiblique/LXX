@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 23
 - Siracide 23
 - Si 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 23

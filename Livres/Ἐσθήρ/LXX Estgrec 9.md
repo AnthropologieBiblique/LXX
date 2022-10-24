@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 9
 - Esther, Grec 9
 - Estgrec 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 9
 - Genèse 9
 - Gn 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 9

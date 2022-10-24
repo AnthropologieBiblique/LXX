@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 37
 - Exode 36
 - Ex 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 37

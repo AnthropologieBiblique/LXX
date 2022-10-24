@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰωνᾶς Ϛ' 3
 - Jonas 3
 - Jon 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰωνᾶς Ϛ' 3

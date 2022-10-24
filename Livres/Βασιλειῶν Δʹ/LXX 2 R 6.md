@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 6
 - 2 Rois 6
 - 2 R 6
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 6

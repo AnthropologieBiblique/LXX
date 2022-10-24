@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 16
 - Job 16
 - Jb 16
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 16

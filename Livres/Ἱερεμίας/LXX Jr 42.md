@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 42
 - Jérémie 35
 - Jr 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/35
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 42

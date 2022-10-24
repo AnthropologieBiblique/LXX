@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 9B (10)
 - Psaumes 10 (9B)
 - Ps 10 (9B)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/10_9B
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 9B (10)

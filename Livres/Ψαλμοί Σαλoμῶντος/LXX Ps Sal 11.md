@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 11
 - Psaume extra numerum 11
 - Ps Sal 11
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 8
 - 2 Chroniques 8
 - 2 Ch 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 8

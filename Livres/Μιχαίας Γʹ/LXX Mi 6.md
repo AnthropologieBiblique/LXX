@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μιχαίας Γʹ 6
 - Michée 6
 - Mi 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μιχαίας Γʹ 6

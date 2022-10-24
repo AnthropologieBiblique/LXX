@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 13
 - Genèse 13
 - Gn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 13

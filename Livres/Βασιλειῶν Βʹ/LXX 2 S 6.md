@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 6
 - 2 Samuel 6
 - 2 S 6
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 6

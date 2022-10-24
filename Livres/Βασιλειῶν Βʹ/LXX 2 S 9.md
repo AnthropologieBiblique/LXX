@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 9
 - 2 Samuel 9
 - 2 S 9
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 9

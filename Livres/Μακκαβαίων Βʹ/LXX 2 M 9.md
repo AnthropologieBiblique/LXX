@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 9
 - 2 Maccabees 9
 - 2 M 9
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 9

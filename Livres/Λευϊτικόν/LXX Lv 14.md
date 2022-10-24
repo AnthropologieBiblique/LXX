@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 14
 - Lévitique 14
 - Lv 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 14

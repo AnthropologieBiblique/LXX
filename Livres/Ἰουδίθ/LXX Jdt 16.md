@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 16
 - Judith 16
 - Jdt 16
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 16

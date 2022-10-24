@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 11
 - Sagesse 11
 - Sg 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 11

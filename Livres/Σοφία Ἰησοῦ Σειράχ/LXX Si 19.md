@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 19
 - Siracide 19
 - Si 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 19

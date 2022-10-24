@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 3
 - Zacharie 3
 - Za 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 3

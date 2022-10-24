@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Αʹ 15
 - 1 Maccabees 15
 - 1 M 15
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Αʹ 15

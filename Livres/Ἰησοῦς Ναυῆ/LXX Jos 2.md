@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 2
 - Josué 2
 - Jos 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 2

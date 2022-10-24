@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 19
 - Juges 19
 - Jg 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 19

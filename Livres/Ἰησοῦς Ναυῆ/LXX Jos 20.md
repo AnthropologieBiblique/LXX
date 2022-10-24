@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 20
 - Josué 20
 - Jos 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 16
 - 2 Chroniques 16
 - 2 Ch 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 16

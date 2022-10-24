@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 25
 - Lévitique 25
 - Lv 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 25

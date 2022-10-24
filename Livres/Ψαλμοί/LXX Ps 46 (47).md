@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 46 (47)
 - Psaumes 47 (46)
 - Ps 47 (46)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/47_46
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 46 (47)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 13
 - 2 Maccabees 13
 - 2 M 13
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 13

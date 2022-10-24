@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 5
 - Psaumes 5
 - Ps 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 5

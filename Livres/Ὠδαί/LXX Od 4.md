@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 4
 - Odes 4
 - Od 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 4

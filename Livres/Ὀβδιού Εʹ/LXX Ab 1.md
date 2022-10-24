@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὀβδιού Εʹ 1
 - Abdias 1
 - Ab 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ab/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὀβδιού Εʹ 1

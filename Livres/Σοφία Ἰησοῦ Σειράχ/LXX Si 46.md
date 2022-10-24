@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 46
 - Siracide 46
 - Si 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/46
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 46

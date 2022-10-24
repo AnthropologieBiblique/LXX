@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 15
 - Jérémie 15
 - Jr 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 15

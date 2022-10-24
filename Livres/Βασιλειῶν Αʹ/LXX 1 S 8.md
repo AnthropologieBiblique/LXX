@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 8
 - 1 Samuel 8
 - 1 S 8
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 8

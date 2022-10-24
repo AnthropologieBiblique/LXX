@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 38
 - Ézéchiel 38
 - Ez 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/38
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 38

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 35
 - Nombres 35
 - Nb 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/35
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 35

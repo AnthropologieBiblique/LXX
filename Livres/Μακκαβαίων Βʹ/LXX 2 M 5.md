@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 5
 - 2 Maccabees 5
 - 2 M 5
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 5

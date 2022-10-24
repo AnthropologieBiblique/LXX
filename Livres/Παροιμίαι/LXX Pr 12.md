@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 12
 - Proverbes 12
 - Pr 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 29
 - Jérémie 47
 - Jr 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/47
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 29

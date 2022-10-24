@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 16
 - Psaume extra numerum 16
 - Ps Sal 16
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 16

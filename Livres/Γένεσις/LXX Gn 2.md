@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 2
 - Genèse 2
 - Gn 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 2

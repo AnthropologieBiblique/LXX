@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 10
 - Odes 10
 - Od 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 10

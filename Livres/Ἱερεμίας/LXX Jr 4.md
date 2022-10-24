@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 4
 - Jérémie 4
 - Jr 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 4

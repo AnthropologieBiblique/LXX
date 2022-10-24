@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 13
 - Jérémie 13
 - Jr 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 13

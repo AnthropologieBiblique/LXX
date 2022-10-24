@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 28
 - Genèse 28
 - Gn 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 28

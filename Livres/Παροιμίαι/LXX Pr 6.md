@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 6
 - Proverbes 6
 - Pr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 6

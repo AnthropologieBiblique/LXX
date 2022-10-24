@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 2
 - Exode 2
 - Ex 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 2

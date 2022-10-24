@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 48 (49)
 - Psaumes 49 (48)
 - Ps 49 (48)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/49_48
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 48 (49)

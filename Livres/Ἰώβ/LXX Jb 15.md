@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 15
 - Job 15
 - Jb 15
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 13
 - Zacharie 13
 - Za 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 13

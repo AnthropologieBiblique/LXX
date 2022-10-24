@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 22
 - 1 Samuel 22
 - 1 S 22
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 22

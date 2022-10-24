@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 41 (42)
 - Psaumes 42 (41)
 - Ps 42 (41)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/42_41
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 41 (42)

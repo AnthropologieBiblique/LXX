@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 17
 - Psaume extra numerum 17
 - Ps Sal 17
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 17

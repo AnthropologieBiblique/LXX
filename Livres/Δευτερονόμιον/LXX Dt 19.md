@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 19
 - Deutéronome 19
 - Dt 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 19

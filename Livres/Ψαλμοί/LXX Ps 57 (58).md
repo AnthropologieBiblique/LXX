@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 57 (58)
 - Psaumes 58 (57)
 - Ps 58 (57)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/58_57
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 57 (58)

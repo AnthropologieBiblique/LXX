@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ
 - Job
 - Jb
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ

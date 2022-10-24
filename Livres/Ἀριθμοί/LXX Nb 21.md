@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 21
 - Nombres 21
 - Nb 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 21

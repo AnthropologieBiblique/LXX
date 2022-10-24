@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 62
 - Isaïe 62
 - Is 62
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/62
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 62

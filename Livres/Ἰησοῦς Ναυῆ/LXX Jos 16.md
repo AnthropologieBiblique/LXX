@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 16
 - Josué 16
 - Jos 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 43
 - Siracide 43
 - Si 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/43
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 43

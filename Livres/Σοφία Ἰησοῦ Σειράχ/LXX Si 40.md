@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 40
 - Siracide 40
 - Si 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/40
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 40

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 47
 - Ézéchiel 47
 - Ez 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/47
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 47

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 66 (67)
 - Psaumes 67 (66)
 - Ps 67 (66)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/67_66
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 66 (67)

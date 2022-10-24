@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 3
 - 2 Chroniques 3
 - 2 Ch 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 3

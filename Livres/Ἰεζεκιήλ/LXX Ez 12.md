@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 12
 - Ézéchiel 12
 - Ez 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 12

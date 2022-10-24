@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 9
 - 1 Rois 9
 - 1 R 9
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 9

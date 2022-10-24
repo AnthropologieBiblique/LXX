@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 38
 - Siracide 38
 - Si 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/38
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 38

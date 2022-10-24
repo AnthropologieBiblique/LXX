@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 8
 - Daniel 8
 - Dn 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 8

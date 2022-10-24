@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 24
 - Proverbes 24
 - Pr 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 24

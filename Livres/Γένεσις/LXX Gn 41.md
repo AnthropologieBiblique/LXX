@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 41
 - Genèse 41
 - Gn 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/41
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 41

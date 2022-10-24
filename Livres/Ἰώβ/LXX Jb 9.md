@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 9
 - Job 9
 - Jb 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 9

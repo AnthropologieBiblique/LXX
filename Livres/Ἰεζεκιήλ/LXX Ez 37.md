@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 37
 - Ézéchiel 37
 - Ez 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/37
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 37

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 12
 - Daniel 12
 - Dn 12
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 12
 - Juges 12
 - Jg 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 12

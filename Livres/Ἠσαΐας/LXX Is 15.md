@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 15
 - Isaïe 15
 - Is 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 15

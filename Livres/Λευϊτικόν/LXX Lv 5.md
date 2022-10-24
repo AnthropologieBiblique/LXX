@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 5
 - Lévitique 5
 - Lv 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 5

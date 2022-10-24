@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 13
 - 2 Chroniques 13
 - 2 Ch 13
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 13

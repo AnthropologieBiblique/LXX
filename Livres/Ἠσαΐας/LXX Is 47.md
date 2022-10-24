@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 47
 - Isaïe 47
 - Is 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/47
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 47

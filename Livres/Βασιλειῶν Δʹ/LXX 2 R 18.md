@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 18
 - 2 Rois 18
 - 2 R 18
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 18

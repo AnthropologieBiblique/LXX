@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 9
 - Psaume extra numerum 9
 - Ps Sal 9
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 9

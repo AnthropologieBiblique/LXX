@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 1
 - Psaume extra numerum 1
 - Ps Sal 1
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 1

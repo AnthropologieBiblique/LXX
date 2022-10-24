@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 10
 - 1 Rois 10
 - 1 R 10
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὡσηέ Αʹ 13
 - Osée 13
 - Os 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὡσηέ Αʹ 13

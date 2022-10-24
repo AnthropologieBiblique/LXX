@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 3
 - Psaume extra numerum 3
 - Ps Sal 3
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 3
 - Psaumes 3
 - Ps 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 3

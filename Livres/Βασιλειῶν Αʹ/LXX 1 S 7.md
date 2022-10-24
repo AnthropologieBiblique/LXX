@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 7
 - 1 Samuel 7
 - 1 S 7
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 7

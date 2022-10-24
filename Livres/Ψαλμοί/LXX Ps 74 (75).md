@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 74 (75)
 - Psaumes 75 (74)
 - Ps 75 (74)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/75_74
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 74 (75)

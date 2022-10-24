@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μαλαχίας ΙΒʹ 1
 - Malachie 1
 - Ml 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μαλαχίας ΙΒʹ 1

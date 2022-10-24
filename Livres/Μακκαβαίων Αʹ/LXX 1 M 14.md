@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Αʹ 14
 - 1 Maccabees 14
 - 1 M 14
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Αʹ 14

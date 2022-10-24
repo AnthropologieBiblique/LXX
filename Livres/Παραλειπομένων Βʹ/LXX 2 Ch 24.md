@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 24
 - 2 Chroniques 24
 - 2 Ch 24
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 24

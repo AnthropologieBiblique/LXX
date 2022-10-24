@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 31 (32)
 - Psaumes 32 (31)
 - Ps 32 (31)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/32_31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 31 (32)

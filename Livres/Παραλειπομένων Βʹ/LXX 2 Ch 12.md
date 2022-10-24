@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 12
 - 2 Chroniques 12
 - 2 Ch 12
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 12

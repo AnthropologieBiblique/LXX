@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 24 (25)
 - Psaumes 25 (24)
 - Ps 25 (24)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/25_24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 24 (25)

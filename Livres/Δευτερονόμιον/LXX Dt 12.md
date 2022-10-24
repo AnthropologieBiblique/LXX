@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 12
 - Deutéronome 12
 - Dt 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 12

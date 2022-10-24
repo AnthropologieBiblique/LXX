@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰωνᾶς Ϛ' 4
 - Jonas 4
 - Jon 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰωνᾶς Ϛ' 4

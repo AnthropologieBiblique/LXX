@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 15
 - 1 Chroniques 15
 - 1 Ch 15
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 15

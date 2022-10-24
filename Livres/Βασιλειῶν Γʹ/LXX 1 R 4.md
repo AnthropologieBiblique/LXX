@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 4
 - 1 Rois 4
 - 1 R 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 4

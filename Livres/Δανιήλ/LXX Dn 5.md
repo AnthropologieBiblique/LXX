@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 5
 - Daniel 5
 - Dn 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 5

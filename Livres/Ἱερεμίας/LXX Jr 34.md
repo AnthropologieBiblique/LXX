@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 34
 - Jérémie 27
 - Jr 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 34

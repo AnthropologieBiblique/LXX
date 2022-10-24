@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ῥούθ 4
 - Ruth 4
 - Rt 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ῥούθ 4

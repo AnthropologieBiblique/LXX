@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 47
 - Siracide 47
 - Si 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/47
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 47

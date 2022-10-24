@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 13
 - Tobie 13
 - Tb 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 13

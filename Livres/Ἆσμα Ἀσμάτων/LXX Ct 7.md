@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἆσμα Ἀσμάτων 7
 - Cantique des cantiques 6
 - Ct 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἆσμα Ἀσμάτων 7

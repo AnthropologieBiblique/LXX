@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 50
 - Isaïe 50
 - Is 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/50
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 50

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 16
 - Lévitique 16
 - Lv 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 16
 - 1 Rois 16
 - 1 R 16
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μαλαχίας ΙΒʹ 2
 - Malachie 2
 - Ml 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μαλαχίας ΙΒʹ 2

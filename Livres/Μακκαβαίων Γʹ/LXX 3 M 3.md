@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Γʹ 3
 - 3 Maccabees 3
 - 3 M 3
@@ -7,6 +7,7 @@ tags :
 - Bible/3M/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Γʹ 3

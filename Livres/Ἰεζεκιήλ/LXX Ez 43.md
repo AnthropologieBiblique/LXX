@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 43
 - Ézéchiel 43
 - Ez 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/43
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 43

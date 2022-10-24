@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 11
 - Siracide 11
 - Si 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 11

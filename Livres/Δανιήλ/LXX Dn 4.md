@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 4
 - Daniel 4
 - Dn 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 4

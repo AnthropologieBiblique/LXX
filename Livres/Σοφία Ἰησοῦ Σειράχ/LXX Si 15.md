@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 15
 - Siracide 15
 - Si 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 15

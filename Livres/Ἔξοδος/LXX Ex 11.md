@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 11
 - Exode 11
 - Ex 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 18
 - Psaume extra numerum 18
 - Ps Sal 18
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 18

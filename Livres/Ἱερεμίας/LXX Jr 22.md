@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 22
 - Jérémie 22
 - Jr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 22

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 6
 - Josué 6
 - Jos 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 6

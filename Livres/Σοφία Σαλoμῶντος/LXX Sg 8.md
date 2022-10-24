@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 8
 - Sagesse 8
 - Sg 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἆσμα Ἀσμάτων 4
 - Cantique des cantiques 4
 - Ct 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἆσμα Ἀσμάτων 4

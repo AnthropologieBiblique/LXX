@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 48
 - Genèse 48
 - Gn 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/48
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 48

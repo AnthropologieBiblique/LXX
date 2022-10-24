@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 14
 - Psaume extra numerum 14
 - Ps Sal 14
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 14

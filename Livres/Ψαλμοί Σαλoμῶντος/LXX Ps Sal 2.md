@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 2
 - Psaume extra numerum 2
 - Ps Sal 2
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 16
 - 2 Samuel 16
 - 2 S 16
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 16

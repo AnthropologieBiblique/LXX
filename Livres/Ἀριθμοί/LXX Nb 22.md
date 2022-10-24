@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 22
 - Nombres 22
 - Nb 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 22

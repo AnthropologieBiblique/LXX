@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 7
 - Zacharie 7
 - Za 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 5
 - Deutéronome 5
 - Dt 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 5

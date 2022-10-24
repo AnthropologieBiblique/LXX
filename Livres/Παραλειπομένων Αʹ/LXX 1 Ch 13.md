@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 13
 - 1 Chroniques 13
 - 1 Ch 13
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 12
 - Exode 12
 - Ex 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 12

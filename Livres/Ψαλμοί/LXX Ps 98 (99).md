@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 98 (99)
 - Psaumes 99 (98)
 - Ps 99 (98)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/99_98
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 98 (99)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 5
 - Ecclésiaste 5
 - Qo 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀμβακούμ Ηʹ 2
 - Habaquq 2
 - Ha 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀμβακούμ Ηʹ 2

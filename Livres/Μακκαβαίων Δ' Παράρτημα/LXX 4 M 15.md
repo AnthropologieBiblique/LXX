@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 15
 - 4 Maccabees 15
 - 4 M 15
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 15

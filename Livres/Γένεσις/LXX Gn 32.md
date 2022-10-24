@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 32
 - Genèse 31
 - Gn 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 32

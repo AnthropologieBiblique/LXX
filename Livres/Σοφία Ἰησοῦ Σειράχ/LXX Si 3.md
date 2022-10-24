@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 3
 - Siracide 3
 - Si 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 3

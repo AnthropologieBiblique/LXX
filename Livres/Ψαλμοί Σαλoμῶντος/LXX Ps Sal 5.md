@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 5
 - Psaume extra numerum 5
 - Ps Sal 5
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 5

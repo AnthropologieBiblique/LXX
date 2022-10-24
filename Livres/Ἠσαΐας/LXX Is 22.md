@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 22
 - Isaïe 22
 - Is 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 22

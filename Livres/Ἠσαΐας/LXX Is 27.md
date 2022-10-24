@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 27
 - Isaïe 27
 - Is 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 27

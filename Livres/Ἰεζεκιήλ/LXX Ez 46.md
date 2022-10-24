@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 46
 - Ézéchiel 46
 - Ez 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/46
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 46

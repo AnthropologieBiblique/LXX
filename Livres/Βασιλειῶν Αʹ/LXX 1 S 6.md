@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 6
 - 1 Samuel 6
 - 1 S 6
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 6

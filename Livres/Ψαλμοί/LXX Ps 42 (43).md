@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 42 (43)
 - Psaumes 43 (42)
 - Ps 43 (42)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/43_42
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 42 (43)

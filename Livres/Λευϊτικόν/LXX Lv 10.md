@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 10
 - Lévitique 10
 - Lv 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 14
 - Zacharie 14
 - Za 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 14

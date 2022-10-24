@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 7
 - 4 Maccabees 7
 - 4 M 7
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 7

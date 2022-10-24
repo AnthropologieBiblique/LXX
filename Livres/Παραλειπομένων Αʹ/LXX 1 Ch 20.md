@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 20
 - 1 Chroniques 20
 - 1 Ch 20
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 5
 - Zacharie 5
 - Za 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 5

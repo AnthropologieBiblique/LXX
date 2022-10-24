@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 10 (11)
 - Psaumes 11 (10)
 - Ps 11 (10)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/11_10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 10 (11)

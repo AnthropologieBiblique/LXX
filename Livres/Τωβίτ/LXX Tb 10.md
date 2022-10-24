@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 10
 - Tobie 10
 - Tb 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 10

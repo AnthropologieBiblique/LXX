@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 52 (53)
 - Psaumes 53 (52)
 - Ps 53 (52)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/53_52
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 52 (53)

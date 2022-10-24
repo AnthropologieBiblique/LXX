@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 19
 - Isaïe 19
 - Is 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 19

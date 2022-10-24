@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 17
 - Proverbes 17
 - Pr 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 17

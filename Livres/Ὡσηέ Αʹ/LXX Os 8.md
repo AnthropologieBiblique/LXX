@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὡσηέ Αʹ 8
 - Osée 8
 - Os 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὡσηέ Αʹ 8

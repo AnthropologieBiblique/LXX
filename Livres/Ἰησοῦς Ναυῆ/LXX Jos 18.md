@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 18
 - Josué 18
 - Jos 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 18

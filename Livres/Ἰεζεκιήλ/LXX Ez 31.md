@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 31
 - Ézéchiel 31
 - Ez 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 31

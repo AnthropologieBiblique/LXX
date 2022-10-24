@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 25
 - Proverbes 25
 - Pr 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 25

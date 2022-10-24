@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 7
 - Sagesse 7
 - Sg 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 7

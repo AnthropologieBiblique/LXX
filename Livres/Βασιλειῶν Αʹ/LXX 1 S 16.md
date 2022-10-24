@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 16
 - 1 Samuel 16
 - 1 S 16
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 16

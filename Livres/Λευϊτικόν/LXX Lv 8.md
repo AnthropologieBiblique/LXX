@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 8
 - Lévitique 8
 - Lv 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 8

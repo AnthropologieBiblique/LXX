@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 10
 - Zacharie 10
 - Za 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 10

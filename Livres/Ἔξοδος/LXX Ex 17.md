@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 17
 - Exode 17
 - Ex 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 17

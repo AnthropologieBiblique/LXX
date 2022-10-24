@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 9
 - Odes 9
 - Od 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 9

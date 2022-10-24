@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὡσηέ Αʹ 9
 - Osée 9
 - Os 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὡσηέ Αʹ 9

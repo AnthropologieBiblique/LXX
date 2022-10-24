@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 92 (93)
 - Psaumes 93 (92)
 - Ps 93 (92)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/93_92
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 92 (93)

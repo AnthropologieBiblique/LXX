@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφονίας Θʹ 3
 - Sophonie 3
 - So 3
@@ -8,6 +8,7 @@ tags :
 - Bible/So/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφονίας Θʹ 3

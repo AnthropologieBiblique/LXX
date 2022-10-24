@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 45
 - Jérémie 38
 - Jr 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/38
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 45

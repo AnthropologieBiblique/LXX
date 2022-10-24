@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 34
 - Isaïe 34
 - Is 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/34
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 34

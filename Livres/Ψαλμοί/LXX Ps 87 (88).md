@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 87 (88)
 - Psaumes 88 (87)
 - Ps 88 (87)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/88_87
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 87 (88)

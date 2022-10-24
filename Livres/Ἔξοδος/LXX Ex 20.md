@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 20
 - Exode 20
 - Ex 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 20

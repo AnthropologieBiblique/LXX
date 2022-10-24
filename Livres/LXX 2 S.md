@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ
 - 2 Samuel
 - 2 S
@@ -7,6 +7,7 @@ tags :
 - Bible/2S
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ

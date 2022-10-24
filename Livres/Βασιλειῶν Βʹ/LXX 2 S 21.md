@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 21
 - 2 Samuel 21
 - 2 S 21
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 32
 - Job 32
 - Jb 32
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 32

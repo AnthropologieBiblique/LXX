@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 18
 - 1 Rois 18
 - 1 R 18
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 18

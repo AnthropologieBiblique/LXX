@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 148
 - Psaumes 148
 - Ps 148
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/148
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 148

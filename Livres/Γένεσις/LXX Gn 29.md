@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 29
 - Genèse 29
 - Gn 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 29

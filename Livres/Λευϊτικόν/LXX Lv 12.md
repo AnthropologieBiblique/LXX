@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 12
 - Lévitique 12
 - Lv 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 12

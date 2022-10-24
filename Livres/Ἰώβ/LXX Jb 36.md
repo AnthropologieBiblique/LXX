@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 36
 - Job 36
 - Jb 36
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 36

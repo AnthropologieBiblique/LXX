@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 21
 - 2 Rois 21
 - 2 R 21
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 21

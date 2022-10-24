@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 16
 - Ézéchiel 16
 - Ez 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 3
 - Tobie 3
 - Tb 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 3

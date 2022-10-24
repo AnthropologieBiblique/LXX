@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Θρῆνοι 5
 - Lamentations 5
 - Lm 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Θρῆνοι 5

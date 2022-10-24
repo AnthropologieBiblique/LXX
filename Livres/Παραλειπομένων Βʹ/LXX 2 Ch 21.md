@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 21
 - 2 Chroniques 21
 - 2 Ch 21
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 21

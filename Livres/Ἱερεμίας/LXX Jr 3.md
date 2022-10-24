@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 3
 - Jérémie 3
 - Jr 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 3

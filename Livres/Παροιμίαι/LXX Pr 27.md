@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 27
 - Proverbes 27
 - Pr 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 27

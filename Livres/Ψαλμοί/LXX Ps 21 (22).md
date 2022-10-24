@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 21 (22)
 - Psaumes 22 (21)
 - Ps 22 (21)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/22_21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 21 (22)

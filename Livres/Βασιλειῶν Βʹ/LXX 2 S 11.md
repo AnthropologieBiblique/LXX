@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 11
 - 2 Samuel 11
 - 2 S 11
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 11

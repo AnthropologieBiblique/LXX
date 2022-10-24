@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μαλαχίας ΙΒʹ 3
 - Malachie 3
 - Ml 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μαλαχίας ΙΒʹ 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 22
 - Proverbes 22
 - Pr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 22

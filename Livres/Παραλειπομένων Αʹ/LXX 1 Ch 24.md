@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 24
 - 1 Chroniques 24
 - 1 Ch 24
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 24

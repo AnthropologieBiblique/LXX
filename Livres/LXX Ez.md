@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ
 - Ézéchiel
 - Ez
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ

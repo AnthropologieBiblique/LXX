@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 13
 - Siracide 13
 - Si 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 13

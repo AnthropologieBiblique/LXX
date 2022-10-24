@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 14
 - Isaïe 14
 - Is 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 14

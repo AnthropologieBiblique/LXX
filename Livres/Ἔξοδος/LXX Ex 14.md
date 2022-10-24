@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 14
 - Exode 14
 - Ex 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 14

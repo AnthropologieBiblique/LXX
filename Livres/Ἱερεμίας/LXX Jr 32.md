@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 32
 - Jérémie 25
 - Jr 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 32

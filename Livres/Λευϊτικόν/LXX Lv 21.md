@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 21
 - Lévitique 21
 - Lv 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 21

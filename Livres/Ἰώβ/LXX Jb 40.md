@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 40
 - Job 40
 - Jb 40
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/40
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 40

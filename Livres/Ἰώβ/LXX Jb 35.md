@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 35
 - Job 35
 - Jb 35
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/35
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 35

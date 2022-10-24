@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 18
 - Deutéronome 18
 - Dt 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 18

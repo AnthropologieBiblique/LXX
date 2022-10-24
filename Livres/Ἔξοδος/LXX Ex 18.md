@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 18
 - Exode 18
 - Ex 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 18

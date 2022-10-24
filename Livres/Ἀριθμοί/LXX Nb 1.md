@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 1
 - Nombres 1
 - Nb 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μιχαίας Γʹ 4
 - Michée 4
 - Mi 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μιχαίας Γʹ 4

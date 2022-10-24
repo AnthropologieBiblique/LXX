@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον
 - Deutéronome
 - Dt
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 7
 - 2 Chroniques 7
 - 2 Ch 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 7

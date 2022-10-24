@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 52
 - Jérémie 52
 - Jr 52
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/52
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 52

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 9
 - Daniel 9
 - Dn 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 9

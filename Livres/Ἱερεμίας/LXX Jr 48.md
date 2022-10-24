@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 48
 - Jérémie 41
 - Jr 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/41
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 48

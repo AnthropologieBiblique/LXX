@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 3
 - Ézéchiel 3
 - Ez 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 3

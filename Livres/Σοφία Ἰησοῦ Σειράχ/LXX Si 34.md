@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 34
 - Siracide 34
 - Si 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/34
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 34

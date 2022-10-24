@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 33
 - Exode 33
 - Ex 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 33

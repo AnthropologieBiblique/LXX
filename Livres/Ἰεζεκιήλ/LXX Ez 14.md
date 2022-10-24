@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 14
 - Ézéchiel 14
 - Ez 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 14

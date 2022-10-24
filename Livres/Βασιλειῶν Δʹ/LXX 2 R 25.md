@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 25
 - 2 Rois 25
 - 2 R 25
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 25

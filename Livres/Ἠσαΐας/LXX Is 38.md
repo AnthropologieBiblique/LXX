@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 38
 - Isaïe 38
 - Is 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/38
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 38

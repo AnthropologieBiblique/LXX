@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 54
 - Isaïe 54
 - Is 54
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/54
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 54

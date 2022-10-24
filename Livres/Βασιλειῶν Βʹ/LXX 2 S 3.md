@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 3
 - 2 Samuel 3
 - 2 S 3
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 3

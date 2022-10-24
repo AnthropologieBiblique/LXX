@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 14
 - Esdras 4
 - Esd 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 14

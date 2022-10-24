@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 42
 - Job 42
 - Jb 42
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/42
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 42

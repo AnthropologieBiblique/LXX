@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 18
 - Sagesse 18
 - Sg 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 18

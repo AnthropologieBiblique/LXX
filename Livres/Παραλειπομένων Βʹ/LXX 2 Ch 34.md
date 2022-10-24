@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 34
 - 2 Chroniques 34
 - 2 Ch 34
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/34
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 34

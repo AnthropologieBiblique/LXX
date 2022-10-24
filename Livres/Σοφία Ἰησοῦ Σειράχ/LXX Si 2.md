@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 2
 - Siracide 2
 - Si 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 2

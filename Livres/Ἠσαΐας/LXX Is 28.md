@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 28
 - Isaïe 28
 - Is 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 28

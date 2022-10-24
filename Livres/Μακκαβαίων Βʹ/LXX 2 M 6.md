@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 6
 - 2 Maccabees 6
 - 2 M 6
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 6

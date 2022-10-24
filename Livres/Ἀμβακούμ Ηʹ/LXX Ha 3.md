@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀμβακούμ Ηʹ 3
 - Habaquq 3
 - Ha 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀμβακούμ Ηʹ 3

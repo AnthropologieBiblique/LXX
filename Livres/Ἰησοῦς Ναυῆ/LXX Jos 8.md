@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 8
 - Josué 8
 - Jos 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 8

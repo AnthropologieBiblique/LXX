@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 33
 - 2 Chroniques 33
 - 2 Ch 33
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/33
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 33

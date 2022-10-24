@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 11
 - Zacharie 11
 - Za 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 11

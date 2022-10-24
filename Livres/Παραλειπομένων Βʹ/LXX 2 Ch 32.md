@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 32
 - 2 Chroniques 32
 - 2 Ch 32
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 32

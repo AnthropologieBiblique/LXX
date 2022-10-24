@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 22
 - Josué 22
 - Jos 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 22

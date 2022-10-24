@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 28 (29)
 - Psaumes 29 (28)
 - Ps 29 (28)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/29_28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 28 (29)

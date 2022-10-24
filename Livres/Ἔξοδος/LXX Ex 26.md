@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 26
 - Exode 26
 - Ex 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 26

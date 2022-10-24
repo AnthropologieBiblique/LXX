@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 13
 - Sagesse 13
 - Sg 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 13

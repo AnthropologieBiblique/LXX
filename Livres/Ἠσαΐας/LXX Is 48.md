@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 48
 - Isaïe 48
 - Is 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/48
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 48

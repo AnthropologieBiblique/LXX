@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 21
 - 1 Samuel 20
 - 1 S 20
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 21

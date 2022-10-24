@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 7
 - Esther, Grec 7
 - Estgrec 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 7

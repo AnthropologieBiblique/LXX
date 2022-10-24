@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 19
 - Exode 19
 - Ex 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 19

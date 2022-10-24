@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 36
 - Nombres 36
 - Nb 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 36

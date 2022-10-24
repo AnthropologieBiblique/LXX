@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 19
 - Job 19
 - Jb 19
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 19

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 14
 - Judith 14
 - Jdt 14
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 14

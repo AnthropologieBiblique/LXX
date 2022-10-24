@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰωήλ Δʹ 4
 - Joël 3
 - Jl 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰωήλ Δʹ 4

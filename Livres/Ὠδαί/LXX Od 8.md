@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 8
 - Odes 8
 - Od 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 8

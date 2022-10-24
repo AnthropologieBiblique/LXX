@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 30
 - Proverbes 30
 - Pr 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 30

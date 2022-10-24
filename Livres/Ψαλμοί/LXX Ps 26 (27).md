@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 26 (27)
 - Psaumes 27 (26)
 - Ps 27 (26)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/27_26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 26 (27)

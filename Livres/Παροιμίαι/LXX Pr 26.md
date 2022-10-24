@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 26
 - Proverbes 26
 - Pr 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 26

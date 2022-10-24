@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 17
 - 1 Rois 17
 - 1 R 17
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 17

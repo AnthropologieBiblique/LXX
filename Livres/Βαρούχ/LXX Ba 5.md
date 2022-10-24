@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βαρούχ 5
 - Baruch 5
 - Ba 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Ba/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βαρούχ 5

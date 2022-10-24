@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 24
 - 1 Samuel 23
 - 1 S 23
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 24

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 39
 - Jérémie 32
 - Jr 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 39

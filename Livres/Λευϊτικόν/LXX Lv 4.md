@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 4
 - Lévitique 4
 - Lv 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 4

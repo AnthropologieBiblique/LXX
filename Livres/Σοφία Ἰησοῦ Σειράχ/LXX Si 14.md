@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 14
 - Siracide 14
 - Si 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 14

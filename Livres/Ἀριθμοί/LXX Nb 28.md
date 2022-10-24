@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 28
 - Nombres 28
 - Nb 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 28

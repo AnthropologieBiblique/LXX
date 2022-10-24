@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 7
 - Jérémie 7
 - Jr 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 7

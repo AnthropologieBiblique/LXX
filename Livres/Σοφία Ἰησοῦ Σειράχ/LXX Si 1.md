@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 1
 - Siracide 1
 - Si 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 4
 - 2 Rois 4
 - 2 R 4
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 4

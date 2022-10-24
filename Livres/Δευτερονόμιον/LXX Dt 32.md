@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 32
 - Deutéronome 32
 - Dt 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 32

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 6
 - Psaumes 6
 - Ps 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 6

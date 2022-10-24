@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 15
 - Psaume extra numerum 15
 - Ps Sal 15
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 15

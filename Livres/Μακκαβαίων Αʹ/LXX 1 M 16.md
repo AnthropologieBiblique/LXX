@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Αʹ 16
 - 1 Maccabees 16
 - 1 M 16
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Αʹ 16

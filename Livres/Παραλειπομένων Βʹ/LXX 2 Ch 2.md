@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 2
 - 2 Chroniques 2
 - 2 Ch 2
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 2

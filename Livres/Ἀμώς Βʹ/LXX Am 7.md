@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀμώς Βʹ 7
 - Amos 7
 - Am 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀμώς Βʹ 7

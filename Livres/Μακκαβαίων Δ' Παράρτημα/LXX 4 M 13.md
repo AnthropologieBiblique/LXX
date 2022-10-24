@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 13
 - 4 Maccabees 13
 - 4 M 13
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 13

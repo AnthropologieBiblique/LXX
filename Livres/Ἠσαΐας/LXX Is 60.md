@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 60
 - Isaïe 60
 - Is 60
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/60
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 60

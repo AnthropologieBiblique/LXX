@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 77 (78)
 - Psaumes 78 (77)
 - Ps 78 (77)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/78_77
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 77 (78)

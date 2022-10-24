@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 36
 - Siracide 36
 - Si 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 36

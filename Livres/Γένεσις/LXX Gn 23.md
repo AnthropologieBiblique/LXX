@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 23
 - Genèse 23
 - Gn 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 23

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 50
 - Siracide 50
 - Si 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/50
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 50

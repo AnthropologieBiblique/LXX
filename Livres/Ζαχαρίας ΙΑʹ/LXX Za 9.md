@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 9
 - Zacharie 9
 - Za 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 9

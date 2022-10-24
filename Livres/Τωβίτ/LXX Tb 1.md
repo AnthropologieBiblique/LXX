@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 1
 - Tobie 1
 - Tb 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 1

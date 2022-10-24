@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 19
 - Ézéchiel 19
 - Ez 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 19

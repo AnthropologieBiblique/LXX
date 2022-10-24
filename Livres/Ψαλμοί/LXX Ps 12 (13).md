@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 12 (13)
 - Psaumes 13 (12)
 - Ps 13 (12)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/13_12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 12 (13)

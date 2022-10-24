@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 4
 - Proverbes 4
 - Pr 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 4

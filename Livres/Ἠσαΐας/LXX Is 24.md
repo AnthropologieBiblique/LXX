@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 24
 - Isaïe 24
 - Is 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 24

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 8
 - Siracide 8
 - Si 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 8

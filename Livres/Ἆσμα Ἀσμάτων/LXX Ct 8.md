@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἆσμα Ἀσμάτων 8
 - Cantique des cantiques 8
 - Ct 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἆσμα Ἀσμάτων 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 3
 - Daniel 3
 - Dn 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 23
 - Nombres 23
 - Nb 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 23

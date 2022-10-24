@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 3
 - Judith 3
 - Jdt 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 8
 - Ecclésiaste 8
 - Qo 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 8

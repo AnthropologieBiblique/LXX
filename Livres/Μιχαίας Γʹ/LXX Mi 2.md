@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μιχαίας Γʹ 2
 - Michée 2
 - Mi 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μιχαίας Γʹ 2

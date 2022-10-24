@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 15
 - Proverbes 14
 - Pr 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 15
 - Deutéronome 15
 - Dt 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 15

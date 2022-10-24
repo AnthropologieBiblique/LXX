@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 29
 - 1 Samuel 29
 - 1 S 29
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 29

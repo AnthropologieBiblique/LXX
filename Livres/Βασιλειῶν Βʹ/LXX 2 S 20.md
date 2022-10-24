@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 20
 - 2 Samuel 20
 - 2 S 20
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 20

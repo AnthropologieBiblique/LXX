@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 44
 - Ézéchiel 44
 - Ez 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/44
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 44

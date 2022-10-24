@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 4
 - Deutéronome 4
 - Dt 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 4

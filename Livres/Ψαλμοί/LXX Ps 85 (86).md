@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 85 (86)
 - Psaumes 86 (85)
 - Ps 86 (85)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/86_85
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 85 (86)

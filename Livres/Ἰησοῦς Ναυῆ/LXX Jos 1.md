@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 1
 - Josué 1
 - Jos 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 1

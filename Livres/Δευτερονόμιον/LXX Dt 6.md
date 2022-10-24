@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 6
 - Deutéronome 6
 - Dt 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 6

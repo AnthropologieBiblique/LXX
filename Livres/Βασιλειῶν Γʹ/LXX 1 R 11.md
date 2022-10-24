@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 11
 - 1 Rois 11
 - 1 R 11
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 41
 - Isaïe 41
 - Is 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/41
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 41

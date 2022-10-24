@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 8
 - 2 Samuel 8
 - 2 S 8
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 15
 - Juges 15
 - Jg 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 15

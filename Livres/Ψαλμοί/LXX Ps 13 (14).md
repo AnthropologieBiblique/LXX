@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 13 (14)
 - Psaumes 14 (13)
 - Ps 14 (13)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/14_13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 13 (14)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 23
 - Jérémie 23
 - Jr 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 23

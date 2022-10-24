@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 13
 - 2 Rois 13
 - 2 R 13
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 13

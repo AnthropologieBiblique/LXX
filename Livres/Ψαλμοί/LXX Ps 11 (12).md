@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 11 (12)
 - Psaumes 12 (11)
 - Ps 12 (11)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/12_11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 11 (12)

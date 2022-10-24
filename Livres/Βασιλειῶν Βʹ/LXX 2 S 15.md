@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 15
 - 2 Samuel 15
 - 2 S 15
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀμώς Βʹ 4
 - Amos 4
 - Am 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀμώς Βʹ 4

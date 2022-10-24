@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 8
 - Zacharie 8
 - Za 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 8

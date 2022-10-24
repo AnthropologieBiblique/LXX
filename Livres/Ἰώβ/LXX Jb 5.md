@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 5
 - Job 5
 - Jb 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 5

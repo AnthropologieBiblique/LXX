@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 21
 - Proverbes 21
 - Pr 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 21

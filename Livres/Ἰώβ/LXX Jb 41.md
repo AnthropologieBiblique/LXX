@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 41
 - Job 41
 - Jb 41
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/41
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 41

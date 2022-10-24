@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 39 (40)
 - Psaumes 40 (39)
 - Ps 40 (39)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/40_39
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 39 (40)

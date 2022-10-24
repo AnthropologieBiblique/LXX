@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 35 (36)
 - Psaumes 36 (35)
 - Ps 36 (35)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/36_35
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 35 (36)

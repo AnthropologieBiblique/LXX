@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 41
 - Siracide 41
 - Si 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/41
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 41

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 18
 - 2 Chroniques 18
 - 2 Ch 18
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 18

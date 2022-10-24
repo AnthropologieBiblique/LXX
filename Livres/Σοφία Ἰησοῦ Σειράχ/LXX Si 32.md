@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 32
 - Siracide 32
 - Si 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 32

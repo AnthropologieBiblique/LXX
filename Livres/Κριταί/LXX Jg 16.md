@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 16
 - Juges 16
 - Jg 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 16

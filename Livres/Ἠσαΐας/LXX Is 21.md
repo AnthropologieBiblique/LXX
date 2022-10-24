@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 21
 - Isaïe 21
 - Is 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 29
 - Exode 29
 - Ex 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 29

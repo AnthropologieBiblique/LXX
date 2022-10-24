@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι
 - Proverbes
 - Pr
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι

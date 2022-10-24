@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 4
 - 2 Chroniques 4
 - 2 Ch 4
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 4

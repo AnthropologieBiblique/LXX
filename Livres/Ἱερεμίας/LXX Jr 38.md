@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 38
 - Jérémie 31
 - Jr 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 38

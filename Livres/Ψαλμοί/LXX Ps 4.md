@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 4
 - Psaumes 4
 - Ps 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 4

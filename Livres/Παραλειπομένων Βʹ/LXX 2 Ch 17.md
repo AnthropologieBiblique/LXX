@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 17
 - 2 Chroniques 17
 - 2 Ch 17
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 17

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 28
 - Ézéchiel 28
 - Ez 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 28

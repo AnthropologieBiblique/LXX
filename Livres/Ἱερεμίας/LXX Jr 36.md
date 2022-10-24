@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 36
 - Jérémie 29
 - Jr 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 36

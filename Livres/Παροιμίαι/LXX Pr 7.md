@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 7
 - Proverbes 7
 - Pr 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 7

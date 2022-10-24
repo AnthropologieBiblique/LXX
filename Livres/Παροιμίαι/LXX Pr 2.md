@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 2
 - Proverbes 2
 - Pr 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 2

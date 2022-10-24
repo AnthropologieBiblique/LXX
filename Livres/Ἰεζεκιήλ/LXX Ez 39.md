@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 39
 - Ézéchiel 39
 - Ez 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/39
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 39

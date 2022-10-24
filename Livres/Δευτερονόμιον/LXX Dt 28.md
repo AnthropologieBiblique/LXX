@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 28
 - Deutéronome 28
 - Dt 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 28

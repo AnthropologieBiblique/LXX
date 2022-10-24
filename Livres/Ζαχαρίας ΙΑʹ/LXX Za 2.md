@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 2
 - Zacharie 1
 - Za 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 2

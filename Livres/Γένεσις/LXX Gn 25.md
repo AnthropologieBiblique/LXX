@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 25
 - Genèse 25
 - Gn 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 25

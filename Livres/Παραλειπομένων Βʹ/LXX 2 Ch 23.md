@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 23
 - 2 Chroniques 23
 - 2 Ch 23
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/23
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 23

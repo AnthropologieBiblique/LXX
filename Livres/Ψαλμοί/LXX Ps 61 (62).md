@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 61 (62)
 - Psaumes 62 (61)
 - Ps 62 (61)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/62_61
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 61 (62)

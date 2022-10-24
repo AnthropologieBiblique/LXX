@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 80 (81)
 - Psaumes 81 (80)
 - Ps 81 (80)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/81_80
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 80 (81)

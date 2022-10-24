@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 7
 - Psaume extra numerum 7
 - Ps Sal 7
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 7

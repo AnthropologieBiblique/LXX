@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 1
 - Lévitique 1
 - Lv 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 1

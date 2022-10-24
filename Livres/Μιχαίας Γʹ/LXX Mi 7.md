@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μιχαίας Γʹ 7
 - Michée 7
 - Mi 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μιχαίας Γʹ 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 6
 - Esther, Grec 6
 - Estgrec 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Estgrec/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 6

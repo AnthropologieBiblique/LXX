@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 30
 - Exode 30
 - Ex 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 30

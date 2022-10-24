@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 49 (50)
 - Psaumes 50 (49)
 - Ps 50 (49)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/50_49
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 49 (50)

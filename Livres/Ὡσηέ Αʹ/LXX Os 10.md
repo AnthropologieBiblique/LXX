@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὡσηέ Αʹ 10
 - Osée 10
 - Os 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὡσηέ Αʹ 10

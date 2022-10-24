@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 19
 - 2 Chroniques 19
 - 2 Ch 19
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 19

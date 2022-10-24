@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 6
 - Nombres 6
 - Nb 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 6

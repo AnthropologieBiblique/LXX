@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 6
 - Juges 6
 - Jg 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 6

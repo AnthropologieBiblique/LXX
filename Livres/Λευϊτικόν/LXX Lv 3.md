@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 3
 - Lévitique 3
 - Lv 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 3

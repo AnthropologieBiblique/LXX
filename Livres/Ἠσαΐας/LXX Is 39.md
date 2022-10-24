@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 39
 - Isaïe 39
 - Is 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/39
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 39

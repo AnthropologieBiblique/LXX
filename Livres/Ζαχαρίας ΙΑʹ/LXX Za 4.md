@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ζαχαρίας ΙΑʹ 4
 - Zacharie 4
 - Za 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ζαχαρίας ΙΑʹ 4

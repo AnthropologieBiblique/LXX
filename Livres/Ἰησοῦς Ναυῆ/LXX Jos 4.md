@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 4
 - Josué 4
 - Jos 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 4

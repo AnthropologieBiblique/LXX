@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 13
 - Ézéchiel 13
 - Ez 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 13

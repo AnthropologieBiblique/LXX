@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 9
 - Siracide 9
 - Si 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 9

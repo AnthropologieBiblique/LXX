@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 15
 - Nombres 15
 - Nb 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 15

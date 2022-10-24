@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 29 (30)
 - Psaumes 30 (29)
 - Ps 30 (29)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/30_29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 29 (30)

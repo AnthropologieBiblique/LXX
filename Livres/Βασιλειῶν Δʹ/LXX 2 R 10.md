@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 10
 - 2 Rois 10
 - 2 R 10
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 10

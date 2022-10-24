@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 5
 - 2 Chroniques 5
 - 2 Ch 5
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 5

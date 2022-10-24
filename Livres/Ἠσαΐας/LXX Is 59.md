@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 59
 - Isaïe 59
 - Is 59
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/59
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 59

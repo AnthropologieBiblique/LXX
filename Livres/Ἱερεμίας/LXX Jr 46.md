@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 46
 - Jérémie 39
 - Jr 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/39
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 46

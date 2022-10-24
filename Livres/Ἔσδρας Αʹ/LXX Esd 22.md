@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 22
 - Esdras 12
 - Esd 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 22

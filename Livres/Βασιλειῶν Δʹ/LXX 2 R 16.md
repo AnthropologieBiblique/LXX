@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 16
 - 2 Rois 16
 - 2 R 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 16

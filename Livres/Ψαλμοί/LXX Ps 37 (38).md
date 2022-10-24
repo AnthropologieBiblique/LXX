@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 37 (38)
 - Psaumes 38 (37)
 - Ps 38 (37)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/38_37
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 37 (38)

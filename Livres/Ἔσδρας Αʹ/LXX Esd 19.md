@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 19
 - Esdras 9
 - Esd 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 19

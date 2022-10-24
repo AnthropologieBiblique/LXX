@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 29
 - Isaïe 29
 - Is 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 29

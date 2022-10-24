@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 17
 - Nombres 16
 - Nb 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 17

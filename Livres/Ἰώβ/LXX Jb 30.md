@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 30
 - Job 30
 - Jb 30
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 30

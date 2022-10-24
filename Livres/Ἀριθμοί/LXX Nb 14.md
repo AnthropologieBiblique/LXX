@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 14
 - Nombres 14
 - Nb 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 14

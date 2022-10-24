@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 27
 - Deutéronome 27
 - Dt 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/27
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 27

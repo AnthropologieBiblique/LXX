@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 26
 - Nombres 25
 - Nb 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 26

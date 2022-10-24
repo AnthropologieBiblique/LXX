@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 14
 - Odes 14
 - Od 14
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 14

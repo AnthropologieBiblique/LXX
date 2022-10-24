@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 4
 - Ézéchiel 4
 - Ez 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 4

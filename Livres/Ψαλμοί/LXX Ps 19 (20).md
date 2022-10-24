@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 19 (20)
 - Psaumes 20 (19)
 - Ps 20 (19)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/20_19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 19 (20)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας
 - Isaïe
 - Is
@@ -8,6 +8,7 @@ tags :
 - Bible/Is
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας

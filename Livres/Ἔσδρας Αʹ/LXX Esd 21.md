@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 21
 - Esdras 11
 - Esd 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 21

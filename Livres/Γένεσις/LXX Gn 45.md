@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 45
 - Genèse 45
 - Gn 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/45
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 45

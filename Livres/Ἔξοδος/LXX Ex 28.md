@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 28
 - Exode 28
 - Ex 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 28

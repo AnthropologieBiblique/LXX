@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 9
 - Josué 9
 - Jos 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 9

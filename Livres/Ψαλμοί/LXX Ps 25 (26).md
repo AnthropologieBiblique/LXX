@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 25 (26)
 - Psaumes 26 (25)
 - Ps 26 (25)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/26_25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 25 (26)

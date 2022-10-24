@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 22 (23)
 - Psaumes 23 (22)
 - Ps 23 (22)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/23_22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 22 (23)

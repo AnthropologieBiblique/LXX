@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἆσμα Ἀσμάτων 3
 - Cantique des cantiques 3
 - Ct 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἆσμα Ἀσμάτων 3

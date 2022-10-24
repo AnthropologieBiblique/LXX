@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 24
 - 2 Rois 24
 - 2 R 24
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 24

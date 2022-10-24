@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 17
 - Job 17
 - Jb 17
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 17

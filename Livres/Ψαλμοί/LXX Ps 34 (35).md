@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 34 (35)
 - Psaumes 35 (34)
 - Ps 35 (34)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/35_34
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 34 (35)

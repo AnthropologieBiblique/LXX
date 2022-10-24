@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 11
 - Odes 11
 - Od 11
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 11

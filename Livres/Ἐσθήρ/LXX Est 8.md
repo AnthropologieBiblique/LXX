@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 8
 - Esther 8
 - Est 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 8

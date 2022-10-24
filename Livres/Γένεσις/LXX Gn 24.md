@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 24
 - Genèse 24
 - Gn 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/24
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 24

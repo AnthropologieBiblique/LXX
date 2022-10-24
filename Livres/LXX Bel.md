@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ
 - Bel et le dragon
 - Bel
@@ -8,6 +8,7 @@ tags :
 - Bible/Bel
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ

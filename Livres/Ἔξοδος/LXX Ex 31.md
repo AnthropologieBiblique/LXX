@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 31
 - Exode 31
 - Ex 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 31

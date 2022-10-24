@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 29
 - 2 Chroniques 29
 - 2 Ch 29
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 29

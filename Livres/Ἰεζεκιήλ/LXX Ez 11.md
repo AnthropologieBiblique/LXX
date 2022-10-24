@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 11
 - Ézéchiel 11
 - Ez 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 34
 - Exode 34
 - Ex 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/34
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 34

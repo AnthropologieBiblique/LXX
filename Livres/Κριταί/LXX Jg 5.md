@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 5
 - Juges 5
 - Jg 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 5

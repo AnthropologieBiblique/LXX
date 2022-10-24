@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 6
 - Jérémie 6
 - Jr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 6

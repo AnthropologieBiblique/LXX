@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 40
 - Exode 40
 - Ex 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/40
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 40

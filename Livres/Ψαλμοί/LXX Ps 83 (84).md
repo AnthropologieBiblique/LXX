@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 83 (84)
 - Psaumes 84 (83)
 - Ps 84 (83)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/84_83
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 83 (84)

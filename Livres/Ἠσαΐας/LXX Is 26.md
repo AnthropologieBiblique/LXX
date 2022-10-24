@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 26
 - Isaïe 26
 - Is 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 26

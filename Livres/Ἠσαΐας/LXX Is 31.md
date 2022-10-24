@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 31
 - Isaïe 31
 - Is 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 31

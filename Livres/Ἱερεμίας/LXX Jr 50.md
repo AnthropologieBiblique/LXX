@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 50
 - Jérémie 43
 - Jr 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/43
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 50

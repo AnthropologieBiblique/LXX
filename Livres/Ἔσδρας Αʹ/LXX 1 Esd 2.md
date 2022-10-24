@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 2
 - 1 Esdras 2
 - 1 Esd 2
@@ -7,6 +7,7 @@ tags :
 - Bible/1Esd/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 2

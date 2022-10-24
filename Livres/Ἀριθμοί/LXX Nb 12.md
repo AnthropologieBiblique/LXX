@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 12
 - Nombres 12
 - Nb 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 12

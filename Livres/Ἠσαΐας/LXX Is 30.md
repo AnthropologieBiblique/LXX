@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 30
 - Isaïe 30
 - Is 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 30

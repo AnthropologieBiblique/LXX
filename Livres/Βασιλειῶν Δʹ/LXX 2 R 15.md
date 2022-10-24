@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 15
 - 2 Rois 15
 - 2 R 15
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 15

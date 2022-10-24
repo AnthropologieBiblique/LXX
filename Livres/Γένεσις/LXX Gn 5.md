@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 5
 - Genèse 5
 - Gn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 5

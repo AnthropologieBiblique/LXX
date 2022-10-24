@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 18
 - Jérémie 18
 - Jr 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 18

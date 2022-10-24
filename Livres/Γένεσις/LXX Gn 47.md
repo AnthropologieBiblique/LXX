@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 47
 - Genèse 47
 - Gn 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/47
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 47

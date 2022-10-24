@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 7
 - Siracide 7
 - Si 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 7

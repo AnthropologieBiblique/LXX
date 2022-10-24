@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 23
 - Deutéronome 22
 - Dt 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 23

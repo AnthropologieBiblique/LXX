@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 28
 - Job 28
 - Jb 28
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 28

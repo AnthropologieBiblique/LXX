@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 15
 - Ézéchiel 15
 - Ez 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 15

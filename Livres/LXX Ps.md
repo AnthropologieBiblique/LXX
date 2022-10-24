@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί
 - Psaumes
 - Ps
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί

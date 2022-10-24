@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐπιστολὴ Ἰερεμίου
 - Épître de Jérémie
 - Jr
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐπιστολὴ Ἰερεμίου

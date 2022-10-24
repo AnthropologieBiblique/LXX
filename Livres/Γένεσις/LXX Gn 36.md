@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 36
 - Genèse 36
 - Gn 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/36
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 36

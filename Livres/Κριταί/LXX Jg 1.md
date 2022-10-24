@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 1
 - Juges 1
 - Jg 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 1

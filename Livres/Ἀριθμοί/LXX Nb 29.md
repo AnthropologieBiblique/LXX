@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 29
 - Nombres 29
 - Nb 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 29

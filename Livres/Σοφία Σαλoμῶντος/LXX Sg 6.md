@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 6
 - Sagesse 6
 - Sg 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 6

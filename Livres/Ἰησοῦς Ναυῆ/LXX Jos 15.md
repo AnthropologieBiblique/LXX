@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 15
 - Josué 15
 - Jos 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 9
 - Nombres 9
 - Nb 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 9

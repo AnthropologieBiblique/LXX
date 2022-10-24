@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 5
 - 1 Chroniques 5
 - 1 Ch 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 12
 - 1 Samuel 12
 - 1 S 12
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 12

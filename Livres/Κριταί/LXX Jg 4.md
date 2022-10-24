@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 4
 - Juges 4
 - Jg 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 4

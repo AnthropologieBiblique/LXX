@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 11
 - 2 Maccabees 11
 - 2 M 11
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 11

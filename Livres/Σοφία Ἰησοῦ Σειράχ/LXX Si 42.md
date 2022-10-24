@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 42
 - Siracide 42
 - Si 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/42
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 42

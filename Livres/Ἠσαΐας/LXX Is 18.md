@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 18
 - Isaïe 18
 - Is 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 18

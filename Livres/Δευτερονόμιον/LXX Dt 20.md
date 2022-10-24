@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 20
 - Deutéronome 20
 - Dt 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 20

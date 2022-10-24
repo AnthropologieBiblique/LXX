@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 25
 - 2 Chroniques 25
 - 2 Ch 25
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 25

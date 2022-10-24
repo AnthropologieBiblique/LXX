@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 2
 - Judith 2
 - Jdt 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 2

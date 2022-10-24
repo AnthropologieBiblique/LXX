@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 18
 - Ézéchiel 18
 - Ez 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 18

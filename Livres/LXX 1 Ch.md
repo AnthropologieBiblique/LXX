@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ
 - 1 Chroniques
 - 1 Ch
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ

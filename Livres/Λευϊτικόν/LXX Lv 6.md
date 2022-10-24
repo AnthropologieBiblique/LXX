@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 6
 - Lévitique 6
 - Lv 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 6

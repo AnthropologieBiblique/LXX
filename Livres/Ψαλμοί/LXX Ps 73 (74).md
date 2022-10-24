@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 73 (74)
 - Psaumes 74 (73)
 - Ps 74 (73)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/74_73
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 73 (74)

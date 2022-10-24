@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Αʹ 8
 - 1 Maccabees 8
 - 1 M 8
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Αʹ 8

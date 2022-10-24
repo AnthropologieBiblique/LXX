@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 1
 - 1 Samuel 1
 - 1 S 1
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 1

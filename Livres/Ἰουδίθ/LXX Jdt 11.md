@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 11
 - Judith 11
 - Jdt 11
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/11
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 11

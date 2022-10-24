@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 40
 - Isaïe 40
 - Is 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/40
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 40

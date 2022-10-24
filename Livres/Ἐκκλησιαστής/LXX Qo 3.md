@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 3
 - Ecclésiaste 3
 - Qo 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 3

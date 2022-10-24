@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 14
 - 1 Rois 14
 - 1 R 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 14

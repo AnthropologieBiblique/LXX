@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 12
 - Sagesse 12
 - Sg 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 12

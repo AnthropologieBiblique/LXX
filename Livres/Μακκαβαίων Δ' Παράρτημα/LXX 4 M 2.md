@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 2
 - 4 Maccabees 2
 - 4 M 2
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 2

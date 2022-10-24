@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 25
 - 1 Chroniques 25
 - 1 Ch 25
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/25
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 25

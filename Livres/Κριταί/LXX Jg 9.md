@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 9
 - Juges 9
 - Jg 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 9

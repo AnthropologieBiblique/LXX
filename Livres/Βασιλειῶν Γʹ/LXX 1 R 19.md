@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 19
 - 1 Rois 19
 - 1 R 19
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 19

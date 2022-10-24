@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Γʹ 8
 - 1 Rois 8
 - 1 R 8
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Γʹ 8

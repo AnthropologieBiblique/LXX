@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 9A (9)
 - Psaumes 9 (9A)
 - Ps 9 (9A)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/9_9A
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 9A (9)

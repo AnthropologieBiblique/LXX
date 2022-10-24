@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 14
 - 2 Chroniques 14
 - 2 Ch 14
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 14

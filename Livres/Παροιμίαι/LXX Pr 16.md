@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 16
 - Proverbes 16
 - Pr 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/16
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 16

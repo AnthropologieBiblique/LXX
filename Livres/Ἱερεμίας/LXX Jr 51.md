@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 51
 - Jérémie 44
 - Jr 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/44
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 51

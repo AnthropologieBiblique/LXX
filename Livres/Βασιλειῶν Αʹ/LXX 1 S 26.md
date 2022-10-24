@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Αʹ 26
 - 1 Samuel 26
 - 1 S 26
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Αʹ 26

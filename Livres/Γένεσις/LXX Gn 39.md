@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 39
 - Genèse 39
 - Gn 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/39
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 39

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 5
 - Isaïe 5
 - Is 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 5

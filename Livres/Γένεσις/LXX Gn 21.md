@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 21
 - Genèse 21
 - Gn 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 21

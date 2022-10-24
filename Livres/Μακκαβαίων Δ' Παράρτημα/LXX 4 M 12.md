@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 12
 - 4 Maccabees 12
 - 4 M 12
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 12

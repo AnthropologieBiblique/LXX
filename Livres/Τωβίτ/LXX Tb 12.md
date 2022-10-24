@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 12
 - Tobie 12
 - Tb 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 12

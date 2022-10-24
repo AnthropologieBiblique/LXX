@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐκκλησιαστής 12
 - Ecclésiaste 12
 - Qo 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐκκλησιαστής 12

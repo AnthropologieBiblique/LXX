@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 9
 - Sagesse 9
 - Sg 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 9

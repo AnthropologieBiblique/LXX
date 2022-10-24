@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 37
 - Isaïe 37
 - Is 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/37
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 37

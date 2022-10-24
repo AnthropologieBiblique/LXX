@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Βʹ 10
 - 2 Samuel 10
 - 2 S 10
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Βʹ 10

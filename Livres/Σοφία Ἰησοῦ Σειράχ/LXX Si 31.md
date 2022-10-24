@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 31
 - Siracide 31
 - Si 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 31

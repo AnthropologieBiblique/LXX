@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 27
 - Jérémie 50
 - Jr 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/50
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 27

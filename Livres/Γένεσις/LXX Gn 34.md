@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 34
 - Genèse 34
 - Gn 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/34
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 34

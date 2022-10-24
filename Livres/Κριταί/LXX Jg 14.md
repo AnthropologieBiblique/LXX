@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Κριταί 14
 - Juges 14
 - Jg 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/14
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Κριταί 14

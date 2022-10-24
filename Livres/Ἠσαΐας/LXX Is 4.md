@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἠσαΐας 4
 - Isaïe 4
 - Is 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἠσαΐας 4

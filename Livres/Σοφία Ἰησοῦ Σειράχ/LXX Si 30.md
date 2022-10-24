@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 30
 - Siracide 30
 - Si 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 30

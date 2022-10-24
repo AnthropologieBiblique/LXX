@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 35
 - Jérémie 28
 - Jr 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 35

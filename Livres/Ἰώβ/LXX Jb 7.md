@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 7
 - Job 7
 - Jb 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 7

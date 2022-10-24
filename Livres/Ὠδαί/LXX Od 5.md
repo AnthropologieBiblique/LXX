@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 5
 - Odes 5
 - Od 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/5
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 5

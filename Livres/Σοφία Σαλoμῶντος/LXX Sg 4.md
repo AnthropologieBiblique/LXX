@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 4
 - Sagesse 4
 - Sg 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/4
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 4

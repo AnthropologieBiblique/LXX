@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 8
 - Deutéronome 8
 - Dt 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/8
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 8

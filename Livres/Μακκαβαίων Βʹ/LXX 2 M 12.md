@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Βʹ 12
 - 2 Maccabees 12
 - 2 M 12
@@ -7,6 +7,7 @@ tags :
 - Bible/2M/12
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Βʹ 12

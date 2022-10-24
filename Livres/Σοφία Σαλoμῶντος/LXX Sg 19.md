@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 19
 - Sagesse 19
 - Sg 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 19

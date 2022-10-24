@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 10
 - 2 Chroniques 10
 - 2 Ch 10
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 10

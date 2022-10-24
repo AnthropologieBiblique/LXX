@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Αʹ 10
 - 1 Maccabees 10
 - 1 M 10
@@ -7,6 +7,7 @@ tags :
 - Bible/1M/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Αʹ 10

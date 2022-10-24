@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἐσθήρ 1
 - Esther 1
 - Est 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἐσθήρ 1

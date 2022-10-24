@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰώβ 31
 - Job 31
 - Jb 31
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰώβ 31

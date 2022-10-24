@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 22
 - 2 Chroniques 22
 - 2 Ch 22
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/22
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 22

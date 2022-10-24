@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰησοῦς Ναυῆ 7
 - Josué 7
 - Jos 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰησοῦς Ναυῆ 7

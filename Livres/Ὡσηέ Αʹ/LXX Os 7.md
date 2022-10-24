@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὡσηέ Αʹ 7
 - Osée 7
 - Os 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὡσηέ Αʹ 7

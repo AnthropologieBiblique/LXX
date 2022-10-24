@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Σαλoμῶντος 17
 - Sagesse 17
 - Sg 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Sg/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Σαλoμῶντος 17

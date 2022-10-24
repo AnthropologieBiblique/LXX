@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰουδίθ 10
 - Judith 10
 - Jdt 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Jdt/10
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰουδίθ 10

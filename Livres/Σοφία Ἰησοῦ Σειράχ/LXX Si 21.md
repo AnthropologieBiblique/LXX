@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 21
 - Siracide 21
 - Si 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/21
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 21

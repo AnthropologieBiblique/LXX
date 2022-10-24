@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 13
 - Proverbes 13
 - Pr 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 13

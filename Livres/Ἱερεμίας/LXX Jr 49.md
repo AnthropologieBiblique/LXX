@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 49
 - Jérémie 42
 - Jr 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/42
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 49

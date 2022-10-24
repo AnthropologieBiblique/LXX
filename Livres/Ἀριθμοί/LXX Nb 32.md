@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 32
 - Nombres 32
 - Nb 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/32
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 32

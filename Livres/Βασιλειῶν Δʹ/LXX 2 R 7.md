@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 7
 - 2 Rois 7
 - 2 R 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 7

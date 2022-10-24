@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔξοδος 6
 - Exode 6
 - Ex 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔξοδος 6

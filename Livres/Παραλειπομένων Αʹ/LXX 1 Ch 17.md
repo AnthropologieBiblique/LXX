@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Αʹ 17
 - 1 Chroniques 17
 - 1 Ch 17
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Αʹ 17

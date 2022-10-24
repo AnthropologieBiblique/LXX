@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 19
 - 2 Rois 19
 - 2 R 19
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 19

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰωήλ Δʹ
 - Joël
 - Jl
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰωήλ Δʹ

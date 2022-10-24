@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 149
 - Psaumes 149
 - Ps 149
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/149
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 149

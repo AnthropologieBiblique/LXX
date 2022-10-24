@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἔσδρας Αʹ 17
 - Esdras 7
 - Esd 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἔσδρας Αʹ 17

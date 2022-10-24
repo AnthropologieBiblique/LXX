@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 2
 - Jérémie 2
 - Jr 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 2

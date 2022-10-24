@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 18
 - Nombres 18
 - Nb 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 18

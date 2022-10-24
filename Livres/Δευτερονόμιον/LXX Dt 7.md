@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 7
 - Deutéronome 7
 - Dt 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφονίας Θʹ 1
 - Sophonie 1
 - So 1
@@ -8,6 +8,7 @@ tags :
 - Bible/So/1
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφονίας Θʹ 1

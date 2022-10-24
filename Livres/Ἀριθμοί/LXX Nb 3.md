@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 3
 - Nombres 3
 - Nb 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 3

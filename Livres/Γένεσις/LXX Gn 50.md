@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 50
 - Genèse 50
 - Gn 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/50
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 50

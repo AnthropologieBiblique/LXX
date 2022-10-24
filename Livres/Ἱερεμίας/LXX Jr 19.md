@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 19
 - Jérémie 19
 - Jr 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/19
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 19

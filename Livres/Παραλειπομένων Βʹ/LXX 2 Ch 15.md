@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 15
 - 2 Chroniques 15
 - 2 Ch 15
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/15
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 15

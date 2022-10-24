@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 59 (60)
 - Psaumes 60 (59)
 - Ps 60 (59)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/60_59
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 59 (60)

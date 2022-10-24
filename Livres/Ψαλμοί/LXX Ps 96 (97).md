@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 96 (97)
 - Psaumes 97 (96)
 - Ps 97 (96)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/97_96
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 96 (97)

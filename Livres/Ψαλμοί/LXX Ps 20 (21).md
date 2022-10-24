@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 20 (21)
 - Psaumes 21 (20)
 - Ps 21 (20)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/21_20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 20 (21)

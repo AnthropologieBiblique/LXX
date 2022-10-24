@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἀριθμοί 20
 - Nombres 20
 - Nb 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἀριθμοί 20

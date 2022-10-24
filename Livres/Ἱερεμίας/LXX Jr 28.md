@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἱερεμίας 28
 - Jérémie 51
 - Jr 51
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/51
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἱερεμίας 28

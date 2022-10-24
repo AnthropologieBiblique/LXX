@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Λευϊτικόν 7
 - Lévitique 7
 - Lv 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/7
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Λευϊτικόν 7

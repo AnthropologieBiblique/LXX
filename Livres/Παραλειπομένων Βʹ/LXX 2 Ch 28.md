@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 28
 - 2 Chroniques 28
 - 2 Ch 28
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/28
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 28

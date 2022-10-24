@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 20
 - 2 Rois 20
 - 2 R 20
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/20
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 20

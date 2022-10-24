@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Βασιλειῶν Δʹ 9
 - 2 Rois 9
 - 2 R 9
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/9
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Βασιλειῶν Δʹ 9

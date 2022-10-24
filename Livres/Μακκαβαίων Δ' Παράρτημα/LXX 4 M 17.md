@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Μακκαβαίων Δ' Παράρτημα 17
 - 4 Maccabees 17
 - 4 M 17
@@ -7,6 +7,7 @@ tags :
 - Bible/4M/17
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 17

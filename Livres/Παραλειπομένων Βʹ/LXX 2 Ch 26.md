@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παραλειπομένων Βʹ 26
 - 2 Chroniques 26
 - 2 Ch 26
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/26
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παραλειπομένων Βʹ 26

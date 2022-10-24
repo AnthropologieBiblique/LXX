@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Γένεσις 44
 - Genèse 44
 - Gn 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/44
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Γένεσις 44

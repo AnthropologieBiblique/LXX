@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 29
 - Ézéchiel 29
 - Ez 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/29
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ 2
 - Daniel 2
 - Dn 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/2
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί 62 (63)
 - Psaumes 63 (62)
 - Ps 63 (62)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/63_62
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί 62 (63)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ψαλμοί Σαλoμῶντος 13
 - Psaume extra numerum 13
 - Ps Sal 13
@@ -8,6 +8,7 @@ tags :
 - Bible/PsSal/13
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ψαλμοί Σαλoμῶντος 13

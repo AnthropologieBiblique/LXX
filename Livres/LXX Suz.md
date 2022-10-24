@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ
 - Suzanne
 - Suz
@@ -8,6 +8,7 @@ tags :
 - Bible/Suz
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ

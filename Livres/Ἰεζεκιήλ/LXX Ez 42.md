@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ἰεζεκιήλ 42
 - Ézéchiel 42
 - Ez 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/42
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ἰεζεκιήλ 42

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Τωβίτ 6
 - Tobie 6
 - Tb 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Tb/6
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Τωβίτ 6

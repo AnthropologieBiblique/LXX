@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δανιήλ
 - Daniel
 - Dn
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δανιήλ

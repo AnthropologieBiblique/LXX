@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Δευτερονόμιον 30
 - Deutéronome 30
 - Dt 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/30
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Δευτερονόμιον 30

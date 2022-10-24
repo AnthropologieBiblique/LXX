@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 31
 - Proverbes 31
 - Pr 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/31
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 31

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Σοφία Ἰησοῦ Σειράχ 48
 - Siracide 48
 - Si 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Si/48
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 48

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ὠδαί 3
 - Odes 3
 - Od 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Od/3
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Ὠδαί 3

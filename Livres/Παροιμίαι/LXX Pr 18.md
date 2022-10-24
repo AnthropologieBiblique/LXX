@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Παροιμίαι 18
 - Proverbes 18
 - Pr 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/18
 - grec
 cssclass : grec
+direction : ltr
 ---
 
 # Παροιμίαι 18
